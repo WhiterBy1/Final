@@ -10,8 +10,8 @@ from typing import List, Dict, Optional
 
 # --- CONFIGURACIÓN ---
 load_dotenv()
-GROQ_API_KEY = os.environ.get("GROQ_API_KEY")
-NEWSAPI_KEY = os.environ.get("NEWSAPI_KEY")
+GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "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")
+NEWSAPI_KEY = os.environ.get("NEWSAPI_KEY", "bd58b5a919054ffc93bad4aa571098ab")
 
 class NewsService:
     def __init__(self):
