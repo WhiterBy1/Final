@@ -64,13 +64,13 @@ if not logger.handlers:
 class Config:
     """Configuración centralizada del sistema"""   
     # APIs Keys (usar variables de entorno en producción)
-    GROQ_API_KEY = os.getenv("GROQ_API_KEY")
-    NEWS_API_KEY = os.getenv("NEWS_API_KEY")
-    ALPHA_VANTAGE_KEY = os.getenv("ALPHA_VANTAGE_KEY")
-    FRED_API_KEY = os.getenv("FRED_API_KEY")
-    REDDIT_CLIENT_ID = os.getenv("REDDIT_CLIENT_ID")
-    REDDIT_SECRET = os.getenv("REDDIT_SECRET")
-    
+    GROQ_API_KEY = os.getenv("GROQ_API_KEY", "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")
+    NEWS_API_KEY = os.getenv("NEWS_API_KEY", "6074c877b3164bf88f88b6e2d53d63a8")
+    ALPHA_VANTAGE_KEY = os.getenv("ALPHA_VANTAGE_KEY", "LQO3KFQJTUIXKBP2")
+    FRED_API_KEY = os.getenv("FRED_API_KEY", "468040c926e8e51ad2e32b5666377eef")
+    REDDIT_CLIENT_ID = os.getenv("REDDIT_CLIENT_ID", "rJjpudhvNsqvozzwyLP9Zw")
+    REDDIT_SECRET = os.getenv("REDDIT_SECRET", "ljou4Urpifj97vcYh2BFtVrSQfRXzw")
+
     # Redis
     REDIS_HOST = os.getenv("REDIS_HOST", "localhost")
     REDIS_PORT = int(os.getenv("REDIS_PORT", 6379))
