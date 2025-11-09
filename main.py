@@ -3572,6 +3572,27 @@ def calculate_recent_performance(market_data):
     
     return f"El mercado ha tenido una {performance_text} en las últimas semanas con volatilidad del {volatility:.1f}%"
 
+# Servir archivos estáticos del frontend
+app.mount("/static", StaticFiles(directory="frontend/static"), name="static")
+
+@app.get("/")
+async def serve_frontend():
+    return FileResponse("frontend/index.html")
+
+@app.get("/{full_path:path}")
+async def catch_all(frontend_path: str):
+    """Manejar todas las rutas del frontend"""
+    if frontend_path.startswith("api/"):
+        raise HTTPException(status_code=404)
+    
+    # Servir archivos estáticos o el index.html
+    file_path = f"frontend/{frontend_path}"
+    if os.path.exists(file_path):
+        return FileResponse(file_path)
+    else:
+        return FileResponse("frontend/index.html")
+        
+
 def identify_key_observations(market_data):
     """Identifica observaciones clave del mercado"""
     observations = []
