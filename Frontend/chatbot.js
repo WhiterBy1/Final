@@ -1,8 +1,8 @@
 // S&P 500 Financial Assistant Chatbot
 const CONFIG = {
-  GROQ_API_KEY: "GROQ_API",
+  GROQ_API_KEY: "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",
   // Usamos newsapi.org por ser más fiable para este caso de uso.
-  NEWSAPI_KEY: "NEW_API", // Asegúrate de que esta clave sea de newsapi.org
+  NEWSAPI_KEY: "bd58b5a919054ffc93bad4aa571098abS", // Asegúrate de que esta clave sea de newsapi.org
   NEWSAPI_PROVIDER: "newsapi",
   NEWSAPI_BASE: "https://newsapi.org/v2/everything",
   GROQ_API_URL: "https://api.groq.com/openai/v1/chat/completions",
