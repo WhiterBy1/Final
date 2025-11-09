@@ -1,0 +1,1730 @@
+[
+  {
+    "date": "2025-11-08 02:33:04.738809",
+    "sp500_close": 6728.7998046875,
+    "sp500_change_pct": -0.9930452347838558,
+    "sp500_volume": 5926070000.0,
+    "market_direction": "bajista",
+    "news": [
+      {
+        "title": "Why is Fed pumping billions into the market? Is this just a temporary liquidity blip \u2014 or the first tremor - The Economic Times",
+        "source": "The Economic Times",
+        "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxPUWllSVdsMmxiVjBVbFZZcnpOX3kwd2MzbTZuRi0weUFhU2xDVUFqc2NQQ2JZd3hHbFM5ckZHMUxCQWYtcnprTG1DTXh1eEV1eXd4a0I5bFdOa1FzVUhFNGhkVk15X2tpM1VvOVNEMm1wcllZN3pjeDR0YXZlTGhuZmZnei12aFVmd2xCbnh1MVBuZXdsLUFRbmlCdWpETnoyVFdMX2ZEUnNwN1pXUjE5SGtobVZHV3BzVXlLVlhibEhpZURydjJoVHo1YlBmak9pTlVSOU9qWVBGcEZOczQ3dGNTLVYyT2xZODZTU1JRaG9teFZaVEk2bGpfZkNxbkZESnZlbXJjZW9FVjB1R1ZzTVRSQmdjUmNuMXJncXd4SF9NTTBQRU5RdFYwcXBzNWlpYndXSEtZSEZXOHJxX1lfZTlyc2tmTW1aYkV1Z1Ewdkx5a29hdEJuRHFia2N5SUpWbG9jQWlDNW9xNnVhTHlFbUt3aUlpVnQyTjVfX0RTTjJBVkx3QUhoU9IBjgNBVV95cUxNdG5SYWFMMHJyaWNSVjhEXzFHbFF5djJuQzlBSVVqZV91YWZ2QzdoTEtxNmpyVks3WTU5WXhBcFFqb3FDaWlwc0htemFxMDk5N2hwd1E2YWpRMGtJcmMwTVhRajVlaHdzZjRUZ0ZtcU9oYmFUdlQ3VjN6eHRzem0zeGxSemhEMzl4aFhZaUwyQ3FoQ3FKdXFmTkxOWjg5bFhGcjh5bkJaWlEyTTlpZndnSkJsb1J3NkJSSFVVckN1WmxkcUE0R3JtcHFacHluQ2luYTQ1bGNuaEF4bl91UDZIZ20zeE1Va05oN2s4SFpoUmJPdzNhVHZ1cl8wNDZPdUxaeXJPZ1pKWXRaZ1lXOUdMVFc3bGpWRWVXRFlWNTJiVEFJQkVEWkt2a3E0VkR0QXlOS0lQNWxNa1R5b0lUWE8wdjZwN3NOSVlHVmsydElHSVpOX3NiNnVpdm1vLXZ1d1NyWHd3elZ2Zjc2RkRHNExUWjNvQ0tNQWQtbzlYUDNOUlc5SEVzbzlmZkI3al9jdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "published_at": null,
+        "sentiment_score": 17.0,
+        "sentiment_label": "muy positivo",
+        "impact_score": 9,
+        "summary": null
+      },
+      {
+        "title": "Stock market today: Nasdaq, S&P 500, Dow come off lows as rough week for tech nears end - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ2wtdW85Sm9Yd2d6STJTcmt3VXV3WHpfMmNzUlJsUUxJcG13allCbTlJNkxzbndiazlWblA3U25XNmM4Vmg3XzUzVXZnR0VOUFg1MlJGT2ZYMVhMSFZyU1ZxRnlUYjkxUGJRWmV3YWo5QmhKRTh3Y3B5TkptbEI3dVRiSlBOS2VuVlBXdy1ycUl3UG5QVlBVOFhVWDBUSkRzODV4Z0VJbm0wYXU0YnhCWVM0SXB3YWhDR2l2Z0xPLWVqMGNRYWZESjdFZmd3OUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "published_at": null,
+        "sentiment_score": 15.0,
+        "sentiment_label": "muy positivo",
+        "impact_score": 8,
+        "summary": null
+      },
+      {
+        "title": "Nasdaq closes lower, capping its worst week since April - CNBC",
+        "source": "CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81Vnc2WUU4X1pJOFA1Wm9JTzFLaFV3WmlNV2hRMDdCa3A3NWNRSzlIbU1YTTFnc3NKbFJabTEyaTA5MGxhZWZDRjRuOGRiZlh0SjZqaHdfT0ZrMkNwRXk5SndsdEJqOTE2ZGhCcFBsWkNOaHEyTGRN0gF8QVVfeXFMUERDUEV5ckZzZE4xVXpWMEo4WUxmZXJTX0lRMHhxYkpfWVU1aXZHMU1oVmlqQ2R0cUYwb1gxYjNrdl9BOVFIWXhleEJtazE4UGNkLXhnNVpRUkNLM29SZk83VkNvTWVUNThJdHluM3U1SmprSUdxRldTNkxuaQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "published_at": null,
+        "sentiment_score": 15.0,
+        "sentiment_label": "muy positivo",
+        "impact_score": 8,
+        "summary": null
+      },
+      {
+        "title": "Stock Market News, Nov. 7, 2025: Nasdaq Has Its Worst Week Since April - The Wall Street Journal",
+        "source": "The Wall Street Journal",
+        "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxOcE9QWHN4QUp2TURzNzVlYlBXLWZZRnV5NmhLVjFHLVlnc1FhZlppNGxVZnlNcnRCZTVoblphUHhvVG5ONHAwZ21NV2xGTHI0bG5UbmlDSUJweldxelF6Skt3NEItM1FsNFJhemE5eE00VnJ5T0lOSTUwWUxIMzJRcXZwWkI2SEdwUGtCQWhUVUdNRE9NZkpVZk02WUFTbjNCTDY3VXBuZjZQWThNdG9ncGRKMW5aUW96ME04UmJOM1hfWDhKaWRWdktKeVZ1dF85OFRkWmNOTFJRRGxGTmJ5RzJsXzhmZnFONTR5ZnVObDF2SzFhWG1vZWJiUXJCUzgtQVVvS2RLMlY1d004a3lfOHFjcXRxUnp1Q1RFM2twMWFfVTl3d2Rpem1QU25yNWNXRlUydlRoV3dCVVZ2R2tMZXpmNnVLWno5SUFGU0draXFhelJJa2hWSF92Zmx3eE1TbE8xdU9hclduOUNuVEFtOVRESXRfX0ZhZzJhYnBrQnBEMGVmY0RMTG14dXo?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "published_at": null,
+        "sentiment_score": 15.0,
+        "sentiment_label": "muy positivo",
+        "impact_score": 8,
+        "summary": null
+      },
+      {
+        "title": "Stock Market Today: Dow, S&P 500 Eke Out Gains; Palantir, Nvidia Close Higher (Live Coverage) - Investor's Business Daily",
+        "source": "Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQX1V3QVFYODAwc1BJaDhRa1JYaHZkVm1Pa0tFZnROT1o4ZUp3THBVU192ZGR4aWxLQzhIS3RHOGJSQXRsV3BRTDBEal9vTzR1NGN4VEVCYUlGdDh6LXF2VmpleFZab2NTREFMOEg0aVBOcnE0M0FGLU8zb2x4WXJqb1Z2YTd6REZlVDVtdHpPQ3pUV09mREtBTzZ1MzEzT2dYd1VjNHZab2E1U1IwR1hWWFFn?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "published_at": null,
+        "sentiment_score": 15.0,
+        "sentiment_label": "muy positivo",
+        "impact_score": 8,
+        "summary": null
+      }
+    ],
+    "technical": {
+      "rsi": 48.80788830748081,
+      "macd": {
+        "value": 33.394710639387995,
+        "signal": 47.66097659546599,
+        "histogram": -14.266265956077994
+      },
+      "sma_50": 6670.289580078125,
+      "volume": 5926070000.0,
+      "vix": null,
+      "support_levels": [
+        5943.22998046875,
+        6212.68994140625,
+        6550.77978515625
+      ],
+      "resistance_levels": [
+        6764.580078125,
+        5968.60986328125
+      ],
+      "trend": "alcista"
+    },
+    "social": [
+      {
+        "platform": "reddit",
+        "mentions_count": 50,
+        "sentiment_average": -0.074,
+        "trending_topics": [
+          "Fed",
+          "earnings",
+          "inflation"
+        ],
+        "influencer_posts": [
+          {
+            "author": "u/DeepFuckingValue",
+            "text": "SPY to the moon! \ud83d\ude80",
+            "upvotes": 5000,
+            "sentiment": 0.0
+          }
+        ],
+        "volume_change_pct": 25.5
+      },
+      {
+        "platform": "twitter",
+        "mentions_count": 300,
+        "sentiment_average": 0.113,
+        "trending_topics": [
+          "#SPY",
+          "#StockMarket",
+          "#Fed"
+        ],
+        "influencer_posts": [
+          {
+            "author": "@jimcramer",
+            "text": "$SPY breakout confirmed! #bullish",
+            "retweets": 1000,
+            "sentiment": 0.0
+          }
+        ],
+        "volume_change_pct": 15.0
+      },
+      {
+        "platform": "stocktwits",
+        "mentions_count": 500,
+        "sentiment_average": 0.45,
+        "trending_topics": [
+          "$SPY",
+          "bull",
+          "moon"
+        ],
+        "influencer_posts": [],
+        "volume_change_pct": 10.0
+      }
+    ],
+    "causality_explanation": "**An\u00e1lisis del movimiento del S&P 500**\n\n**Causas principales del movimiento:**\n\n1. **Influencia de la Fed**: La noticia de que la Fed est\u00e1 inyectando billones de d\u00f3lares en el mercado ha generado una respuesta positiva en los inversores, lo que ha llevado a una recuperaci\u00f3n en el S&P 500.\n2. **Tendencia alcista**: A pesar de la tendencia alcista moderada, el RSI (\u00edndice de fuerza relativa) se encuentra en un nivel neutral, lo que sugiere que el mercado est\u00e1 en un punto de equilibrio.\n3. **Noticias t\u00e9cnicas**: Las noticias sobre la recuperaci\u00f3n del mercado y la mejor\u00eda en el comportamiento de los \u00edndices tecnol\u00f3gicos han contribuido a la recuperaci\u00f3n del S&P 500.\n\n**Interacci\u00f3n de factores:**\n\nLa combinaci\u00f3n de la influencia de la Fed, la tendencia alcista y las noticias t\u00e9cnicas ha llevado a una recuperaci\u00f3n en el S&P 500.\n\n**Factor contradictorio:**\n\nLa peor semana para el Nasdaq desde abril podr\u00eda haber generado inquietud en los inversores, pero la respuesta positiva a la noticia de la Fed ha superado este efecto negativo.\n\n**Importancia del movimiento:**\n\nEl movimiento del S&P 500 es significativo ya que refleja la respuesta del mercado a la pol\u00edtica monetaria y las noticias t\u00e9cnicas.",
+    "confidence_score": 65.0,
+    "key_factors": [
+      " Why is Fed pumping billions into the market? Is this just a ...",
+      " Tendencia alcista moderada",
+      " Volumen de trading elevado"
+    ]
+  },
+  {
+    "date": "2025-11-07 22:04:34.269578",
+    "sp500_close": 6728.7998046875,
+    "sp500_change_pct": -0.9930452347838558,
+    "sp500_volume": 5926070000.0,
+    "market_direction": "bajista",
+    "news": [],
+    "technical": {
+      "rsi": 48.80788830748081,
+      "macd": {
+        "value": 33.394710639387995,
+        "signal": 47.66097659546599,
+        "histogram": -14.266265956077994
+      },
+      "sma_50": 6670.289580078125,
+      "volume": 5926070000.0,
+      "vix": null,
+      "support_levels": [
+        5943.22998046875,
+        6212.68994140625,
+        6550.77978515625
+      ],
+      "resistance_levels": [
+        6764.580078125,
+        5968.60986328125
+      ],
+      "trend": "alcista"
+    },
+    "social": [
+      {
+        "platform": "reddit",
+        "mentions_count": 50,
+        "sentiment_average": -0.074,
+        "trending_topics": [
+          "Fed",
+          "earnings",
+          "inflation"
+        ],
+        "influencer_posts": [
+          {
+            "author": "u/DeepFuckingValue",
+            "text": "SPY to the moon! \ud83d\ude80",
+            "upvotes": 5000,
+            "sentiment": 0.0
+          }
+        ],
+        "volume_change_pct": 25.5
+      },
+      {
+        "platform": "twitter",
+        "mentions_count": 300,
+        "sentiment_average": 0.113,
+        "trending_topics": [
+          "#SPY",
+          "#StockMarket",
+          "#Fed"
+        ],
+        "influencer_posts": [
+          {
+            "author": "@jimcramer",
+            "text": "$SPY breakout confirmed! #bullish",
+            "retweets": 1000,
+            "sentiment": 0.0
+          }
+        ],
+        "volume_change_pct": 15.0
+      },
+      {
+        "platform": "stocktwits",
+        "mentions_count": 500,
+        "sentiment_average": 0.45,
+        "trending_topics": [
+          "$SPY",
+          "bull",
+          "moon"
+        ],
+        "influencer_posts": [],
+        "volume_change_pct": 10.0
+      }
+    ],
+    "causality_explanation": "**An\u00e1lisis del movimiento del S&P 500**\n\n**1. Identifica las causas principales del movimiento**\n\nEl S&P 500 se movi\u00f3 en -0.99% debido a la combinaci\u00f3n de factores t\u00e9cnicos y econ\u00f3micos. Las dos causas principales son:\n\n* La tendencia alcista moderada, que se refleja en la media 50 d\u00edas ($6670.29) y la tendencia de la RSI (48.8) en el rango neutral.\n* El sentimiento social positivo (0.163), que sugiere que los inversores est\u00e1n optimistas sobre el mercado.\n\n**2. Explica c\u00f3mo interact\u00faan estos factores**\n\nLa tendencia alcista moderada y el sentimiento social positivo pueden haber contribuido a la ca\u00edda del S&P 500, ya que los inversores pueden haber vendido para aprovechar las ganancias o para anticipar una posible correcci\u00f3n.\n\n**3. Menciona cualquier factor contradictorio**\n\nNo hay factores contradictorios significativos en este an\u00e1lisis.\n\n**4. Proporciona contexto sobre la importancia del movimiento**\n\nEste movimiento es importante porque refleja la volatilidad del mercado y la necesidad de los inversores de ser cautelosos en su toma de decisiones.",
+    "confidence_score": 60.0,
+    "key_factors": [
+      "\ud83d\udcca RSI en territorio neutral",
+      "\ud83d\udcc8 Tendencia alcista moderada",
+      "\ud83d\udcb0 Volumen de trading elevado"
+    ]
+  },
+  {
+    "date": "2025-11-06 22:04:34.269578",
+    "sp500_close": 6720.31982421875,
+    "sp500_change_pct": -0.7565473480426422,
+    "sp500_volume": 6051900000.0,
+    "market_direction": "bajista",
+    "news": [],
+    "technical": {
+      "rsi": 47.9884781668049,
+      "macd": {
+        "value": 40.99100090723368,
+        "signal": 51.23184889219303,
+        "histogram": -10.240847984959345
+      },
+      "sma_50": 6665.75078125,
+      "volume": 6051900000.0,
+      "vix": null,
+      "support_levels": [
+        5943.22998046875,
+        6212.68994140625,
+        6550.77978515625
+      ],
+      "resistance_levels": [
+        6764.580078125,
+        5968.60986328125
+      ],
+      "trend": "alcista"
+    },
+    "social": [
+      {
+        "platform": "reddit",
+        "mentions_count": 50,
+        "sentiment_average": -0.074,
+        "trending_topics": [
+          "Fed",
+          "earnings",
+          "inflation"
+        ],
+        "influencer_posts": [
+          {
+            "author": "u/DeepFuckingValue",
+            "text": "SPY to the moon! \ud83d\ude80",
+            "upvotes": 5000,
+            "sentiment": 0.0
+          }
+        ],
+        "volume_change_pct": 25.5
+      },
+      {
+        "platform": "twitter",
+        "mentions_count": 300,
+        "sentiment_average": 0.113,
+        "trending_topics": [
+          "#SPY",
+          "#StockMarket",
+          "#Fed"
+        ],
+        "influencer_posts": [
+          {
+            "author": "@jimcramer",
+            "text": "$SPY breakout confirmed! #bullish",
+            "retweets": 1000,
+            "sentiment": 0.0
+          }
+        ],
+        "volume_change_pct": 15.0
+      },
+      {
+        "platform": "stocktwits",
+        "mentions_count": 500,
+        "sentiment_average": 0.45,
+        "trending_topics": [
+          "$SPY",
+          "bull",
+          "moon"
+        ],
+        "influencer_posts": [],
+        "volume_change_pct": 10.0
+      }
+    ],
+    "causality_explanation": "**An\u00e1lisis del movimiento del S&P 500 el 6 de noviembre de 2025**\n\n**1. Causas principales del movimiento:**\n\n* La tendencia alcista moderada del mercado (indicada por la Media 50 d\u00edas) sugiere que la econom\u00eda sigue en crecimiento, lo que podr\u00eda haber contribuido a la ca\u00edda del S&P 500 el 6 de noviembre.\n* El RSI (\u00cdndice de fuerza relativa) en 48.0, en el rango neutro, indica que el mercado no est\u00e1 sobrecalentado ni sobrecalentado, lo que podr\u00eda haber contribuido a la estabilidad del mercado.\n* El sentimiento social positivo (0.163) sugiere que los inversores tienen una visi\u00f3n optimista del mercado, lo que podr\u00eda haber contribuido a la ca\u00edda del S&P 500 en respuesta a la presi\u00f3n de los precios.\n\n**2. Interacci\u00f3n de los factores:**\n\nLa tendencia alcista moderada y el sentimiento social positivo pueden haber contribuido a la ca\u00edda del S&P 500 debido a la presi\u00f3n de los precios. El RSI neutro sugiere que el mercado no est\u00e1 sobrecalentado ni sobrecalentado, lo que podr\u00eda haber contribuido a la estabilidad del mercado.\n\n**3. Factor contradictorio:**\n\nNo hay un factor contradictorio claro en este an\u00e1lisis.\n\n**4. Contexto:**\n\nEl movimiento del S&P 500 el 6 de noviembre de 2025 es importante porque refleja la din\u00e1mica del mercado en este momento. La ca\u00edda del \u00edndice puede ser una se\u00f1al de que el mercado est\u00e1 en una fase de ajuste despu\u00e9s de un per\u00edodo de crecimiento.\n\n**5. Objetividad:**\n\nEste an\u00e1lisis se basa en datos y tendencias objetivas del mercado, sin incluir suposiciones ni prejuicios personales.",
+    "confidence_score": 60.0,
+    "key_factors": [
+      "\ud83d\udcca RSI en territorio neutral",
+      "\ud83d\udcc8 Tendencia alcista moderada",
+      "\ud83d\udcb0 Volumen de trading elevado"
+    ]
+  },
+  {
+    "date": "2025-11-05 22:04:34.269578",
+    "sp500_close": 6796.2900390625,
+    "sp500_change_pct": -0.8126155548754047,
+    "sp500_volume": 5939600000.0,
+    "market_direction": "bajista",
+    "news": [],
+    "technical": {
+      "rsi": 55.36438820704565,
+      "macd": {
+        "value": 50.95035270554217,
+        "signal": 53.792060888432864,
+        "histogram": -2.8417081828906916
+      },
+      "sma_50": 6660.9723828125,
+      "volume": 5939600000.0,
+      "vix": null,
+      "support_levels": [
+        5943.22998046875,
+        6212.68994140625,
+        6550.77978515625
+      ],
+      "resistance_levels": [
+        6764.580078125,
+        5968.60986328125
+      ],
+      "trend": "fuerte_alcista"
+    },
+    "social": [
+      {
+        "platform": "reddit",
+        "mentions_count": 50,
+        "sentiment_average": -0.074,
+        "trending_topics": [
+          "Fed",
+          "earnings",
+          "inflation"
+        ],
+        "influencer_posts": [
+          {
+            "author": "u/DeepFuckingValue",
+            "text": "SPY to the moon! \ud83d\ude80",
+            "upvotes": 5000,
+            "sentiment": 0.0
+          }
+        ],
+        "volume_change_pct": 25.5
+      },
+      {
+        "platform": "twitter",
+        "mentions_count": 300,
+        "sentiment_average": 0.113,
+        "trending_topics": [
+          "#SPY",
+          "#StockMarket",
+          "#Fed"
+        ],
+        "influencer_posts": [
+          {
+            "author": "@jimcramer",
+            "text": "$SPY breakout confirmed! #bullish",
+            "retweets": 1000,
+            "sentiment": 0.0
+          }
+        ],
+        "volume_change_pct": 15.0
+      },
+      {
+        "platform": "stocktwits",
+        "mentions_count": 500,
+        "sentiment_average": 0.45,
+        "trending_topics": [
+          "$SPY",
+          "bull",
+          "moon"
+        ],
+        "influencer_posts": [],
+        "volume_change_pct": 10.0
+      }
+    ],
+    "causality_explanation": "**An\u00e1lisis del movimiento del S&P 500**\n\n**1. Causas principales:**\n\n- **Tendencia alcista fuerte**: La tendencia alcista fuerte, reflejada en la media 50 d\u00edas y el momentum positivo, sugiere que el mercado sigue subiendo.\n- **RSI neutral**: El RSI (\u00edndice de fuerza relativa) de 55.4 indica un equilibrio entre compradores y vendedores, lo que puede explicar la peque\u00f1a ca\u00edda del 0.81%.\n- **Volumen moderado**: El volumen de 5,939,600,000 es moderado, lo que sugiere que el movimiento no fue impulsionado por una gran cantidad de transacciones.\n\n**2. Interacci\u00f3n de factores:**\n\nLa tendencia alcista fuerte se ve contrarrestada por el RSI neutral, lo que sugiere que el mercado est\u00e1 en un punto de equilibrio. El volumen moderado no implica una gran cantidad de compradores o vendedores, lo que puede explicar la peque\u00f1a ca\u00edda del 0.81%.\n\n**3. Factor contradictorio:**\n\nNo hay un factor contradictorio claro en este an\u00e1lisis.\n\n**4. Importancia del movimiento:**\n\nEste movimiento del 0.81% es peque\u00f1o y no implica un cambio significativo en la tendencia general del mercado.\n\n**5. Conclusi\u00f3n:**\n\nEl movimiento del S&P 500 se debi\u00f3 a la interacci\u00f3n de la tendencia alcista fuerte, el RSI neutral y el volumen moderado. No hay un factor contradictorio claro y el movimiento es peque\u00f1o, lo que no implica un cambio significativo en la tendencia general del mercado.",
+    "confidence_score": 60.0,
+    "key_factors": [
+      "\ud83d\udcc8 Tendencia alcista fuerte",
+      "\ud83d\udcb0 Volumen de trading elevado",
+      "\ud83c\udf10 Sentimiento positivo en redes"
+    ]
+  },
+  {
+    "date": "2025-11-04 22:04:34.269578",
+    "sp500_close": 6771.5498046875,
+    "sp500_change_pct": -1.003631307049247,
+    "sp500_volume": 5739510000.0,
+    "market_direction": "bajista",
+    "news": [],
+    "technical": {
+      "rsi": 53.1886556059871,
+      "macd": {
+        "value": 55.18586199557558,
+        "signal": 54.50248793415553,
+        "histogram": 0.6833740614200465
+      },
+      "sma_50": 6654.365380859375,
+      "volume": 5739510000.0,
+      "vix": null,
+      "support_levels": [
+        5943.22998046875,
+        6212.68994140625,
+        6550.77978515625
+      ],
+      "resistance_levels": [
+        6764.580078125,
+        5968.60986328125
+      ],
+      "trend": "alcista"
+    },
+    "social": [
+      {
+        "platform": "reddit",
+        "mentions_count": 50,
+        "sentiment_average": -0.074,
+        "trending_topics": [
+          "Fed",
+          "earnings",
+          "inflation"
+        ],
+        "influencer_posts": [
+          {
+            "author": "u/DeepFuckingValue",
+            "text": "SPY to the moon! \ud83d\ude80",
+            "upvotes": 5000,
+            "sentiment": 0.0
+          }
+        ],
+        "volume_change_pct": 25.5
+      },
+      {
+        "platform": "twitter",
+        "mentions_count": 300,
+        "sentiment_average": 0.113,
+        "trending_topics": [
+          "#SPY",
+          "#StockMarket",
+          "#Fed"
+        ],
+        "influencer_posts": [
+          {
+            "author": "@jimcramer",
+            "text": "$SPY breakout confirmed! #bullish",
+            "retweets": 1000,
+            "sentiment": 0.0
+          }
+        ],
+        "volume_change_pct": 15.0
+      },
+      {
+        "platform": "stocktwits",
+        "mentions_count": 500,
+        "sentiment_average": 0.45,
+        "trending_topics": [
+          "$SPY",
+          "bull",
+          "moon"
+        ],
+        "influencer_posts": [],
+        "volume_change_pct": 10.0
+      }
+    ],
+    "causality_explanation": "**An\u00e1lisis del movimiento del S&P 500**\n\n1. **Causas principales:**\n * **Tendencia alcista moderada**: El \u00edndice ha estado en tendencia alcista en las \u00faltimas semanas, lo que sugiere que los inversores est\u00e1n optimistas sobre el futuro del mercado.\n * **Neutralidad del RSI**: El \u00edndice de fuerza relativa (RSI) se encuentra en un nivel neutral, lo que indica que el mercado no est\u00e1 sobrecomprado ni sobreventa.\n * **Presi\u00f3n de ventas**: El precio de cierre del S&P 500 ha ca\u00eddo un 1,00% en esta fecha, lo que sugiere que los inversores est\u00e1n vendiendo acciones para ajustar sus posiciones.\n\n2. **Interacci\u00f3n de los factores:**\n La tendencia alcista moderada y la neutralidad del RSI sugieren que el mercado sigue siendo positivo, pero la presi\u00f3n de ventas indica que los inversores est\u00e1n ajustando sus posiciones.\n\n3. **Factor contradictorio:**\n La ca\u00edda del 1,00% en el precio de cierre del S&P 500 es un indicador de que el mercado est\u00e1 experimentando cierta volatilidad.\n\n4. **Importancia del movimiento:**\n El movimiento del S&P 500 es importante porque refleja la confianza de los inversores en el mercado y puede influir en las decisiones de inversi\u00f3n a futuro.\n\n5. **Objetividad y base en datos:**\n El an\u00e1lisis se basa en datos objetivos, como el precio de cierre y el volumen, y se consideran factores t\u00e9cnicos como la tendencia y el RSI.",
+    "confidence_score": 60.0,
+    "key_factors": [
+      "\ud83d\udcca RSI en territorio neutral",
+      "\ud83d\udcc8 Tendencia alcista moderada",
+      "\ud83d\udcb0 Volumen de trading elevado"
+    ]
+  },
+  {
+    "date": "2025-11-03 22:04:34.269578",
+    "sp500_close": 6851.97021484375,
+    "sp500_change_pct": 0.43431391241664136,
+    "sp500_volume": 6065720000.0,
+    "market_direction": "alcista",
+    "news": [],
+    "technical": {
+      "rsi": 62.36433211367376,
+      "macd": {
+        "value": 62.30821426946477,
+        "signal": 54.33164441880052,
+        "histogram": 7.976569850664248
+      },
+      "sma_50": 6647.72078125,
+      "volume": 6065720000.0,
+      "vix": null,
+      "support_levels": [
+        5943.22998046875,
+        6212.68994140625,
+        6550.77978515625
+      ],
+      "resistance_levels": [
+        6764.580078125,
+        5968.60986328125
+      ],
+      "trend": "fuerte_alcista"
+    },
+    "social": [
+      {
+        "platform": "reddit",
+        "mentions_count": 50,
+        "sentiment_average": -0.074,
+        "trending_topics": [
+          "Fed",
+          "earnings",
+          "inflation"
+        ],
+        "influencer_posts": [
+          {
+            "author": "u/DeepFuckingValue",
+            "text": "SPY to the moon! \ud83d\ude80",
+            "upvotes": 5000,
+            "sentiment": 0.0
+          }
+        ],
+        "volume_change_pct": 25.5
+      },
+      {
+        "platform": "twitter",
+        "mentions_count": 300,
+        "sentiment_average": 0.113,
+        "trending_topics": [
+          "#SPY",
+          "#StockMarket",
+          "#Fed"
+        ],
+        "influencer_posts": [
+          {
+            "author": "@jimcramer",
+            "text": "$SPY breakout confirmed! #bullish",
+            "retweets": 1000,
+            "sentiment": 0.0
+          }
+        ],
+        "volume_change_pct": 15.0
+      },
+      {
+        "platform": "stocktwits",
+        "mentions_count": 500,
+        "sentiment_average": 0.45,
+        "trending_topics": [
+          "$SPY",
+          "bull",
+          "moon"
+        ],
+        "influencer_posts": [],
+        "volume_change_pct": 10.0
+      }
+    ],
+    "causality_explanation": "**An\u00e1lisis del movimiento del S&P 500**\n\n**1. Causas principales del movimiento:**\n\n* La tendencia alcista fuerte (fuerte_alcista) del mercado, reflejada en el momentum positivo, contribuy\u00f3 al aumento del \u00edndice.\n* El RSI (\u00edndice de fuerza relativa) de 62.4, considerado neutral, sugiere que el mercado no est\u00e1 sobrecomprado ni sobreventa.\n* La media 50 d\u00edas de $6647.72, ligeramente por debajo del precio de cierre, indica una tendencia alcista estable.\n\n**2. Interacci\u00f3n de los factores:**\n\n* La tendencia alcista fuerte impuls\u00f3 el precio del S&P 500 hacia arriba, lo que a su vez aument\u00f3 el RSI.\n* El RSI neutral indica que el mercado no est\u00e1 sobrecomprado, lo que mantiene la tendencia alcista.\n\n**3. Factor contradictorio:**\n\n* No se encuentran noticias significativas que puedan contradecir la tendencia alcista.\n\n**4. Importancia del movimiento:**\n\n* Un aumento del 0,43% en el S&P 500 es un movimiento moderado, pero se ajusta a la tendencia alcista estable del mercado.",
+    "confidence_score": 60.0,
+    "key_factors": [
+      "\ud83d\udcc8 Tendencia alcista fuerte",
+      "\ud83d\udcb0 Volumen de trading elevado",
+      "\ud83c\udf10 Sentimiento positivo en redes"
+    ]
+  },
+  {
+    "date": "2025-11-02 22:04:34.269578",
+    "sp500_close": 6840.2001953125,
+    "sp500_change_pct": -0.7312820757022003,
+    "sp500_volume": 6398280000.0,
+    "market_direction": "bajista",
+    "news": [],
+    "technical": {
+      "rsi": 61.46013566388344,
+      "macd": {
+        "value": 62.30082012614457,
+        "signal": 52.332289714796616,
+        "histogram": 9.968530411347956
+      },
+      "sma_50": 6640.019580078125,
+      "volume": 6398280000.0,
+      "vix": null,
+      "support_levels": [
+        5943.22998046875,
+        6212.68994140625,
+        6550.77978515625
+      ],
+      "resistance_levels": [
+        6764.580078125,
+        5968.60986328125
+      ],
+      "trend": "fuerte_alcista"
+    },
+    "social": [
+      {
+        "platform": "reddit",
+        "mentions_count": 50,
+        "sentiment_average": -0.074,
+        "trending_topics": [
+          "Fed",
+          "earnings",
+          "inflation"
+        ],
+        "influencer_posts": [
+          {
+            "author": "u/DeepFuckingValue",
+            "text": "SPY to the moon! \ud83d\ude80",
+            "upvotes": 5000,
+            "sentiment": 0.0
+          }
+        ],
+        "volume_change_pct": 25.5
+      },
+      {
+        "platform": "twitter",
+        "mentions_count": 300,
+        "sentiment_average": 0.113,
+        "trending_topics": [
+          "#SPY",
+          "#StockMarket",
+          "#Fed"
+        ],
+        "influencer_posts": [
+          {
+            "author": "@jimcramer",
+            "text": "$SPY breakout confirmed! #bullish",
+            "retweets": 1000,
+            "sentiment": 0.0
+          }
+        ],
+        "volume_change_pct": 15.0
+      },
+      {
+        "platform": "stocktwits",
+        "mentions_count": 500,
+        "sentiment_average": 0.45,
+        "trending_topics": [
+          "$SPY",
+          "bull",
+          "moon"
+        ],
+        "influencer_posts": [],
+        "volume_change_pct": 10.0
+      }
+    ],
+    "causality_explanation": "**An\u00e1lisis del movimiento del S&P 500**\n\n**1. Causas principales del movimiento:**\n- La tendencia alcista fuerte (fuerte_alcista) sugiere que el mercado est\u00e1 impulsado por factores positivos, como la confianza en la econom\u00eda y la expectativa de crecimiento.\n- El indicador RSI (Relative Strength Index) en 61.5 es neutral, lo que indica que el mercado no est\u00e1 sobrecalentado ni sobrecalentado.\n- La media 50 d\u00edas ($6640.02) es una referencia importante para determinar la tendencia del mercado.\n\n**2. Interacci\u00f3n de los factores:**\nLa tendencia alcista fuerte y el indicador RSI neutral sugieren que el mercado est\u00e1 en una fase de crecimiento estable. La media 50 d\u00edas es una referencia clave para evaluar la tendencia a largo plazo.\n\n**3. Factor contradictorio:**\nNo hay factores contradictorios significativos en este an\u00e1lisis.\n\n**4. Contexto y importancia:**\nEl movimiento del S&P 500 es importante porque refleja la salud del mercado y la econom\u00eda en general. Un crecimiento estable puede indicar confianza en la econom\u00eda y expectativas de crecimiento.",
+    "confidence_score": 60.0,
+    "key_factors": [
+      "\ud83d\udcc8 Tendencia alcista fuerte",
+      "\ud83d\udcb0 Volumen de trading elevado",
+      "\ud83c\udf10 Sentimiento positivo en redes"
+    ]
+  },
+  {
+    "date": "2025-11-01 22:04:34.269578",
+    "sp500_close": 6840.2001953125,
+    "sp500_change_pct": -0.7312820757022003,
+    "sp500_volume": 6398280000.0,
+    "market_direction": "bajista",
+    "news": [],
+    "technical": {
+      "rsi": 61.46015710626485,
+      "macd": {
+        "value": 62.30100464537736,
+        "signal": 52.3325610650069,
+        "histogram": 9.968443580370462
+      },
+      "sma_50": 6640.019580078125,
+      "volume": 6398280000.0,
+      "vix": null,
+      "support_levels": [
+        5943.22998046875,
+        6212.68994140625,
+        6550.77978515625
+      ],
+      "resistance_levels": [
+        6764.580078125,
+        5968.60986328125
+      ],
+      "trend": "fuerte_alcista"
+    },
+    "social": [
+      {
+        "platform": "reddit",
+        "mentions_count": 50,
+        "sentiment_average": -0.074,
+        "trending_topics": [
+          "Fed",
+          "earnings",
+          "inflation"
+        ],
+        "influencer_posts": [
+          {
+            "author": "u/DeepFuckingValue",
+            "text": "SPY to the moon! \ud83d\ude80",
+            "upvotes": 5000,
+            "sentiment": 0.0
+          }
+        ],
+        "volume_change_pct": 25.5
+      },
+      {
+        "platform": "twitter",
+        "mentions_count": 300,
+        "sentiment_average": 0.113,
+        "trending_topics": [
+          "#SPY",
+          "#StockMarket",
+          "#Fed"
+        ],
+        "influencer_posts": [
+          {
+            "author": "@jimcramer",
+            "text": "$SPY breakout confirmed! #bullish",
+            "retweets": 1000,
+            "sentiment": 0.0
+          }
+        ],
+        "volume_change_pct": 15.0
+      },
+      {
+        "platform": "stocktwits",
+        "mentions_count": 500,
+        "sentiment_average": 0.45,
+        "trending_topics": [
+          "$SPY",
+          "bull",
+          "moon"
+        ],
+        "influencer_posts": [],
+        "volume_change_pct": 10.0
+      }
+    ],
+    "causality_explanation": "**An\u00e1lisis del movimiento del S&P 500**\n\n1. **Causas principales del movimiento**:\n - **Tendencia alcista fuerte**: La tendencia del mercado ha estado en aumento durante varias semanas, lo que sugiere que los inversores est\u00e1n optimistas sobre el futuro de la econom\u00eda.\n - **Media 50 d\u00edas**: La media 50 d\u00edas ha superado el precio actual, lo que puede indicar que el mercado est\u00e1 en una fase de consolidaci\u00f3n antes de seguir subiendo.\n - **Sentimiento social positivo**: El sentimiento social es positivo, lo que sugiere que los inversores est\u00e1n confiados en el mercado.\n\n2. **Interacci\u00f3n de los factores**:\n La tendencia alcista fuerte y el sentimiento social positivo pueden estar impulsando el mercado hacia arriba. Sin embargo, la media 50 d\u00edas puede estar indicando que el mercado est\u00e1 en una fase de consolidaci\u00f3n.\n\n3. **Factor contradictorio**:\n No hay un factor contradictorio claro en este an\u00e1lisis.\n\n4. **Importancia del movimiento**:\n El movimiento del S&P 500 puede ser importante para los inversores que est\u00e1n considerando comprar o vender acciones. Un movimiento hacia arriba puede indicar que el mercado est\u00e1 en una fase de crecimiento, mientras que un movimiento hacia abajo puede indicar que el mercado est\u00e1 en una fase de consolidaci\u00f3n o correcci\u00f3n.",
+    "confidence_score": 60.0,
+    "key_factors": [
+      "\ud83d\udcc8 Tendencia alcista fuerte",
+      "\ud83d\udcb0 Volumen de trading elevado",
+      "\ud83c\udf10 Sentimiento positivo en redes"
+    ]
+  },
+  {
+    "date": "2025-10-31 02:33:04.738809",
+    "sp500_close": 6840.2001953125,
+    "sp500_change_pct": -0.7312820757022003,
+    "sp500_volume": 6398280000.0,
+    "market_direction": "bajista",
+    "news": [
+      {
+        "title": "Wall Street indexes fall as Meta, Microsoft drag, along with Fed rate concerns - Reuters",
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9nTGgtUWFiY2prZDNUb25GblpIS1Z2TXlkRFRKWTM4YVRkLXo5S0I1cF9lN18taXhhcWtRT1ZMM2ppX3hWRkRtdjVaZVQ1U3lReVhEbmwyY3VWSEpZSHdrc3RONlQtbF96UGlDY1BjbmhQTXd6Q0puTFl2MA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "published_at": null,
+        "sentiment_score": 17.0,
+        "sentiment_label": "muy positivo",
+        "impact_score": 9,
+        "summary": null
+      },
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq climb to cap winning month as strong earnings, easing rates fuel Amazon, tech stocks - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPMHAycFBzbVRaMlBnMDYxZFpONjQ4cVM1NUY2WWJiWVV4ZkRVR3JXN3ZMdjFBYlI5dElEZEVCWVdnYWtLd3k3QXdBOFpER3l0ekxxdTJqM3NDbllsV0prWTJPZHJJaXZNUjRCQWUwVmtVWE00UldMVDJxY2ZUd1gzUFk5YzVlaDFWMDhYVEcyOGlXQWxmQk10MVlvYlhvUjdaeUttWTlWUi0tVUIxUHU1am1JYjRnZXlwSi1UbERkQ0NuSzlNOFkwQ2ZsTjN0MG5RajhjYnpTdGY2eHRPWHhyekdRY0NFbHpPWXJOUF8zVDVSSGdrbXVmbDRNaHNJQXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "published_at": null,
+        "sentiment_score": 17.0,
+        "sentiment_label": "muy positivo",
+        "impact_score": 9,
+        "summary": null
+      },
+      {
+        "title": "Meta sheds $215 billion in market value as Wall Street pans \u2018runaway\u2019 AI spending - MarketWatch",
+        "source": "MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxNRFlqRllucFQyN2FpQXFMa3dxTDVUUXJfTWpYUjBnR1lxTXl3aHR4VlVLM0tZUVRmRTlXQ05paHhZSXlnQ1FtNEhTaDJuQ0tnWXdGUmpKUU55YUZPTDEtaXFWOEpydDBKdzJHSmRVWmtsZ0VLSEZSNXZLRmJKbHpDTDY4V1ZxUmFwNnhoSVpKUzRxeHN1Rml3b1dvc050cGhnWTQtZ3k0MWg1Z3h0cmhxbTIxVXJtb2FmeFA5MWM4UW5EWmpCcWRUaVpkVFFueVVoRVhSWHBnNzBxZUNoNVpmQVhWOFlKeGp5TDM2UVNUeE50RzVxaWI3OUVGamVvOGdNcUI3QkN2ZS13b2ZHV3czaFJQd3hEZ0tLQy1kdHhtbmZXNzBXVzIzbjZPYjdiVnduU2Fra01PdVpwUzlYdk8waUdkNmo4ZjdjQkN3NDdCQktZTjlpd01jREY2UHBTM1dXaXRCQnhIRkxXTGMyYktrd0kyX1B4Q1dOU3lvUjZUb2UtMEwzU3UwbVo5WTUzWTdYVU8yOXpnNmxuSm45dllCLWo1NEFvajBiRnpIVmlTdGJIUWRmOU1zYUtqUVBCcFhVZnZUMTRlb2REcmNncG1GXw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "published_at": null,
+        "sentiment_score": 15.0,
+        "sentiment_label": "muy positivo",
+        "impact_score": 8,
+        "summary": null
+      },
+      {
+        "title": "Stock market today: Nasdaq leads S&P 500, Dow lower as Meta sinks after earnings with Apple, Amazon on deck - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZ19jaGFUNkdtRW84TWc5SjVWNzBFZFg3OEFwUDNEOGdvYllza2gxdUxwV1hlMWZFaWRjZ2JpeGVJWGVjRF8wc3RfWHNDSWpDQUYteENDYzhuVWR6cVNmdHBHTl9iQW1CdnVWNFI1UDNhb0FKV1pCdEFZOXN1M0plYkprQzRXOVpwc1RLVVdyMlVSSkJITjdhR29wN3RfTmlwck9nRUN6ZTYzVHNHQ0pvRGtrNEZuZzlESkcybUNhVlhFTlAyWEQzZkJoLV9JWVBDQkItMTBERFpZWkhNNmY3NUtLQjA5emdETXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "published_at": null,
+        "sentiment_score": 15.0,
+        "sentiment_label": "muy positivo",
+        "impact_score": 8,
+        "summary": null
+      },
+      {
+        "title": "Stocks close lower, with Nasdaq down 1.6% as Big Tech leaders Meta and Microsoft decline after earnings - CNBC",
+        "source": "CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBBenpXeEp6QlB1RmRUMkFZNnNGMUxsY3pzTzJoWlVsd1FZazRMR0VPWW1ydGVkYlZuZkhMOXBzcWhVcmFiQnZaMXp6TzU5VG5mYk4tNGZtS1BhVDJxVHd4R01TTmM3c3BDbjVTMFZqX082Q2t5ZFdF0gF8QVVfeXFMUHNFMVdXWTV6ZjBub1RLaXliS0xDZjVkSTNqQWZoODJxaGk2LVVEU216TnhSZFZ6OVV4b2p4TVROUnVBNXpqYXd2aDhldUdLS2FUdmsxbmxJc0wyX2lKZTNpeWtiQkpVcFpjSi1xWll2MzZMQkV4VEVBTUJTdA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "published_at": null,
+        "sentiment_score": 15.0,
+        "sentiment_label": "muy positivo",
+        "impact_score": 8,
+        "summary": null
+      }
+    ],
+    "technical": {
+      "rsi": 61.45956923235586,
+      "macd": {
+        "value": 62.29784199070673,
+        "signal": 52.32791012999736,
+        "histogram": 9.969931860709366
+      },
+      "sma_50": 6640.019580078125,
+      "volume": 6398280000.0,
+      "vix": null,
+      "support_levels": [
+        5943.22998046875,
+        6212.68994140625,
+        6550.77978515625
+      ],
+      "resistance_levels": [
+        6764.580078125,
+        5968.60986328125
+      ],
+      "trend": "fuerte_alcista"
+    },
+    "social": [
+      {
+        "platform": "reddit",
+        "mentions_count": 50,
+        "sentiment_average": -0.074,
+        "trending_topics": [
+          "Fed",
+          "earnings",
+          "inflation"
+        ],
+        "influencer_posts": [
+          {
+            "author": "u/DeepFuckingValue",
+            "text": "SPY to the moon! \ud83d\ude80",
+            "upvotes": 5000,
+            "sentiment": 0.0
+          }
+        ],
+        "volume_change_pct": 25.5
+      },
+      {
+        "platform": "twitter",
+        "mentions_count": 300,
+        "sentiment_average": 0.113,
+        "trending_topics": [
+          "#SPY",
+          "#StockMarket",
+          "#Fed"
+        ],
+        "influencer_posts": [
+          {
+            "author": "@jimcramer",
+            "text": "$SPY breakout confirmed! #bullish",
+            "retweets": 1000,
+            "sentiment": 0.0
+          }
+        ],
+        "volume_change_pct": 15.0
+      },
+      {
+        "platform": "stocktwits",
+        "mentions_count": 500,
+        "sentiment_average": 0.45,
+        "trending_topics": [
+          "$SPY",
+          "bull",
+          "moon"
+        ],
+        "influencer_posts": [],
+        "volume_change_pct": 10.0
+      }
+    ],
+    "causality_explanation": "**An\u00e1lisis del movimiento del S&P 500**\n\nEl S&P 500 cay\u00f3 un 0,73% el 31 de octubre de 2025, cerrando a $6840,20 con un volumen de 6,398,280,000 acciones.\n\n**Causas principales del movimiento:**\n\n1. **Efecto de las noticias negativas de Meta**: La ca\u00edda de Meta en un 10,5% despu\u00e9s de sus resultados financieros decepcionantes provoc\u00f3 una reacci\u00f3n en cadena en el mercado, afectando a otras empresas de tecnolog\u00eda.\n2. **Inquietud por la pol\u00edtica monetaria**: Las preocupaciones sobre la pol\u00edtica monetaria de la Reserva Federal y su impacto en la econom\u00eda tambi\u00e9n contribuyeron a la ca\u00edda del S&P 500.\n3. **Tendencia alcista**: A pesar de la ca\u00edda, el S&P 500 sigue teniendo una tendencia alcista fuerte, lo que sugiere que el mercado a\u00fan se siente optimista sobre el futuro.\n\n**Interacci\u00f3n de los factores**: La combinaci\u00f3n de las noticias negativas de Meta y la inquietud por la pol\u00edtica monetaria provoc\u00f3 una reacci\u00f3n en cadena en el mercado, llevando a la ca\u00edda del S&P 500.\n\n**Factores contradictorios**: Aunque el S&P 500 cay\u00f3, la tendencia alcista sigue siendo fuerte, lo que sugiere que el mercado a\u00fan se siente optimista.\n\n**Contexto y importancia**: El movimiento del S&P 500 es importante porque refleja el estado de \u00e1nimo del mercado y puede influir en la toma de decisiones de los inversores.",
+    "confidence_score": 65.0,
+    "key_factors": [
+      " Wall Street indexes fall as Meta, Microsoft drag, along with...",
+      " Tendencia alcista fuerte",
+      " Volumen de trading elevado"
+    ]
+  },
+  {
+    "date": "2025-10-30 02:33:04.738809",
+    "sp500_close": 6822.33984375,
+    "sp500_change_pct": -0.9947959060248744,
+    "sp500_volume": 6052700000.0,
+    "market_direction": "bajista",
+    "news": [
+      {
+        "title": "The S&P 500 stumbled from record highs during Powell\u2019s speech. Traders were expecting it. - MarketWatch",
+        "source": "MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxOQWRpaTNBejdiT1dKRUJ3a19QWEdUVUlWWkdPRmNKX1FWc0JsZzJHOUpNWmZ2Zy1IQ1hUOW55WnBsSTM5WkJEcHp3Z09CZFdiOUlGcVg3eVdabVZxZGx2cEtBcENiREVQNmIwcUpuQ0tXYTJleXZEbU5WOERlalpjQm5hTUdzTkQySVVybW95NXhWM21wLTE0czVUMXByVFRfOExqaVE0RUJMT1VYRWFjUTFTWVF4ZG5BbEtoc0VQVndxLXZKNEtEcFI0aDJyaURyeWpnbW5ScE0zbXBIb2lvSnBKRUJneDhzcHFzZFpOQXBaOXFPVXVEbWw1b1E5cmpDTmVDZThYT3Q5UEhGcWZ0eHlaUDFsaG1oTFhFQkQ3TXRUOVJmRWlXdlN1Y3lxZFRiSUJGb01DMzRaT21vVEw0SXg4VlJud19MLTVyMDBqZ0pfTzU4U1N5WHpuRTl5ODF3MXk4YWJaOWYwSHZfbXhGQWJXVWhzVUFaZGh5NVVXQ0VldTRDZzBUUlhaRW9ZeTJYSzVlUUswYlc5Tm16c2xRTkRtLU5MN0lLTlZhZE1EejJYS014TzRhdy1ZN2pGRjV5NXJScC1jSmdTdW9TUm41eXRLRklXdFlCWU9teXBGVUZURnFaMENr?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "published_at": null,
+        "sentiment_score": 17.0,
+        "sentiment_label": "muy positivo",
+        "impact_score": 9,
+        "summary": null
+      },
+      {
+        "title": "Stock market today: Nasdaq clinches record, Dow, S&P 500 dip as Fed cuts rates, Powell downplays December cut - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSUxjbWFQcXZKaWFzT0IzR0NnMW9kSDhhVEVvRzJaQUptT0FMUmkzTlNsZE5zeXhETWF0bmhXTEpwbkMxVWpSNWpuZzd5VXl5MDljS0JFMEFRbEJaWUFxSzNKT1hFTmNQQ3M5bm9OTlJtcUYwRHIxOGJlZ2hhekxfNGF2NkxGR0xkaHBkY2NYN0tVcVNkd2hneEFGcTh1czg0UWNJY0piLUlkSHNKQmtrV2xMQkFmbjN5NTJMbWxZZ1NXRElnSzNmei1IVHlJYkJDdGx1MGQwN3E0b09wR0tiR0JEUGtrTmdiWk44?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "published_at": null,
+        "sentiment_score": 17.0,
+        "sentiment_label": "muy positivo",
+        "impact_score": 9,
+        "summary": null
+      },
+      {
+        "title": "Stock market today: Nasdaq leads S&P 500, Dow lower as Meta sinks after earnings with Apple, Amazon on deck - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZ19jaGFUNkdtRW84TWc5SjVWNzBFZFg3OEFwUDNEOGdvYllza2gxdUxwV1hlMWZFaWRjZ2JpeGVJWGVjRF8wc3RfWHNDSWpDQUYteENDYzhuVWR6cVNmdHBHTl9iQW1CdnVWNFI1UDNhb0FKV1pCdEFZOXN1M0plYkprQzRXOVpwc1RLVVdyMlVSSkJITjdhR29wN3RfTmlwck9nRUN6ZTYzVHNHQ0pvRGtrNEZuZzlESkcybUNhVlhFTlAyWEQzZkJoLV9JWVBDQkItMTBERFpZWkhNNmY3NUtLQjA5emdETXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "published_at": null,
+        "sentiment_score": 15.0,
+        "sentiment_label": "muy positivo",
+        "impact_score": 8,
+        "summary": null
+      },
+      {
+        "title": "Wall Street indexes fall as Meta, Microsoft drag, along with Fed rate concerns - Reuters",
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9nTGgtUWFiY2prZDNUb25GblpIS1Z2TXlkRFRKWTM4YVRkLXo5S0I1cF9lN18taXhhcWtRT1ZMM2ppX3hWRkRtdjVaZVQ1U3lReVhEbmwyY3VWSEpZSHdrc3RONlQtbF96UGlDY1BjbmhQTXd6Q0puTFl2MA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "published_at": null,
+        "sentiment_score": 15.0,
+        "sentiment_label": "muy positivo",
+        "impact_score": 8,
+        "summary": null
+      },
+      {
+        "title": "Wall Street waffles as Fed cuts rates but won\u2019t promise more - Los Angeles Times",
+        "source": "Los Angeles Times",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdTAxVGt4YkFSLThENm5PT19GdkluRmNBb3dNeGJwUWFraFpDdl9may1DbnU4dHdiVTRhTFRGc0hTX2JnR1drR0NIbGxrZEFFQ0VvUDhnVEJIenNQRkphWHl4NmU5cTZNMzFlRlFBQXkxOGFPYkJtaUlnTjFVaWJBaV9xeEIwckw5QTJvODgzNTRsbWZHWFpmY2xkeFpLSjRjanlvMmFsQ1V4SlItN0Fqd0FMNjF0T25HcmVPSWE5eFp0X01WbEI3WFVybWFvX3g2WVo4?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "published_at": null,
+        "sentiment_score": 15.0,
+        "sentiment_label": "muy positivo",
+        "impact_score": 8,
+        "summary": null
+      }
+    ],
+    "technical": {
+      "rsi": 60.11020437825876,
+      "macd": {
+        "value": 62.58456314508567,
+        "signal": 49.83542716482001,
+        "histogram": 12.749135980265656
+      },
+      "sma_50": 6630.618974609375,
+      "volume": 6052700000.0,
+      "vix": null,
+      "support_levels": [
+        5943.22998046875,
+        6212.68994140625,
+        6550.77978515625
+      ],
+      "resistance_levels": [
+        6764.580078125,
+        5968.60986328125
+      ],
+      "trend": "fuerte_alcista"
+    },
+    "social": [
+      {
+        "platform": "reddit",
+        "mentions_count": 50,
+        "sentiment_average": -0.074,
+        "trending_topics": [
+          "Fed",
+          "earnings",
+          "inflation"
+        ],
+        "influencer_posts": [
+          {
+            "author": "u/DeepFuckingValue",
+            "text": "SPY to the moon! \ud83d\ude80",
+            "upvotes": 5000,
+            "sentiment": 0.0
+          }
+        ],
+        "volume_change_pct": 25.5
+      },
+      {
+        "platform": "twitter",
+        "mentions_count": 300,
+        "sentiment_average": 0.113,
+        "trending_topics": [
+          "#SPY",
+          "#StockMarket",
+          "#Fed"
+        ],
+        "influencer_posts": [
+          {
+            "author": "@jimcramer",
+            "text": "$SPY breakout confirmed! #bullish",
+            "retweets": 1000,
+            "sentiment": 0.0
+          }
+        ],
+        "volume_change_pct": 15.0
+      },
+      {
+        "platform": "stocktwits",
+        "mentions_count": 500,
+        "sentiment_average": 0.45,
+        "trending_topics": [
+          "$SPY",
+          "bull",
+          "moon"
+        ],
+        "influencer_posts": [],
+        "volume_change_pct": 10.0
+      }
+    ],
+    "causality_explanation": "**An\u00e1lisis del movimiento del S&P 500**\n\n**Causas principales del movimiento:**\n\n1. **Discurso de Powell**: El discurso del presidente de la Reserva Federal, Jerome Powell, sobre la reducci\u00f3n de tasas de inter\u00e9s gener\u00f3 una reacci\u00f3n en el mercado. Aunque se esperaba una ca\u00edda, la magnitud del movimiento sorprendi\u00f3 a algunos inversores.\n2. **Expectativas de tasas de inter\u00e9s**: La reducci\u00f3n de tasas de inter\u00e9s se consider\u00f3 positiva para el mercado, pero la falta de certeza sobre futuras reducciones gener\u00f3 incertidumbre.\n3. **Rendimiento de acciones**: La ca\u00edda de acciones como Meta y Microsoft contribuy\u00f3 a la baja del S&P 500.\n\n**Interacci\u00f3n de factores:** La combinaci\u00f3n de estos factores gener\u00f3 una ca\u00edda del S&P 500 del 0.99%.\n\n**Factor contradictorio:** A pesar de la ca\u00edda, el RSI se mantuvo en un nivel neutral, lo que sugiere que el mercado no est\u00e1 extremadamente sobrecomprado ni sobrevenido.\n\n**Importancia del movimiento:** El movimiento del S&P 500 es importante para entender la percepci\u00f3n de los inversores sobre la econom\u00eda y las pol\u00edticas monetarias.",
+    "confidence_score": 65.0,
+    "key_factors": [
+      " The S&P 500 stumbled from record highs during Powell\u2019s speec...",
+      " Tendencia alcista fuerte",
+      " Volumen de trading elevado"
+    ]
+  },
+  {
+    "date": "2025-10-29 02:33:04.738809",
+    "sp500_close": 6890.58984375,
+    "sp500_change_pct": 0.22442659006239057,
+    "sp500_volume": 6280130000.0,
+    "market_direction": "alcista",
+    "news": [
+      {
+        "title": "The S&P 500 stumbled from record highs during Powell\u2019s speech. Traders were expecting it. - MarketWatch",
+        "source": "MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxOSWFETndnZnZSZFRIWE41THlhdTEtQjdGTW9MZk1ybHJFcEtESWZqRDlRMnZIRExISzlWLV9YMVNRMmt5OXcyUVdOZXhTTGpEcmdkbnJ2VzR6NVlMc3BIUWJsS3FkTzA5NkpXXy1qWTkzWWVWeXZsSGM2aERGX1c1dmx1VXc0dEZweVFmWU9FTDZKNmx5OERtM056cGVic1lPTjFreVpDR2o5OFNmLUdBZzlDdFpuZzFoU1hMdGc1MXpEcmxyTXJjcXc5cU9kcFJhdHBkUENUa3Q2UlhnMVBWUEFyQS1RMVBiRW1fSnlGd2lscVlPa1hUVC1SdVJ5aVRERS1Yb1hBUjNQUXczUzc1ZUEtdzN6YW5uWVhSV1FFdGV1TEpzdXdnWkhINF9uWmk3aEdDanFGeVZaS3NnYTh5NFFTUWl0NGVFRUh6bUVtaGJQMmFlSnh4Qzl5SHRmUENaTVhhTTV3MGlXYXhRTkh1Qzk5b21WNzR3a2VMOTZVdFZBRVU5Q2JvWkpydm9RUGZJOVFKOGRUeXFCVTByVjYzZkpvTmI4TlVlU1JiZC04d0F5RjVjQzJSd2JlTnpLUDR5M1NGNHBvMWdXd1lPX2drR0o2eHlIRVBtcXBvbzl5UzlNX3QtSHpB?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "published_at": null,
+        "sentiment_score": 17.0,
+        "sentiment_label": "muy positivo",
+        "impact_score": 9,
+        "summary": null
+      },
+      {
+        "title": "Stock market today: Nasdaq clinches record, Dow, S&P 500 dip as Fed cuts rates, Powell downplays December cut - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSUxjbWFQcXZKaWFzT0IzR0NnMW9kSDhhVEVvRzJaQUptT0FMUmkzTlNsZE5zeXhETWF0bmhXTEpwbkMxVWpSNWpuZzd5VXl5MDljS0JFMEFRbEJaWUFxSzNKT1hFTmNQQ3M5bm9OTlJtcUYwRHIxOGJlZ2hhekxfNGF2NkxGR0xkaHBkY2NYN0tVcVNkd2hneEFGcTh1czg0UWNJY0piLUlkSHNKQmtrV2xMQkFmbjN5NTJMbWxZZ1NXRElnSzNmei1IVHlJYkJDdGx1MGQwN3E0b09wR0tiR0JEUGtrTmdiWk44?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "published_at": null,
+        "sentiment_score": 17.0,
+        "sentiment_label": "muy positivo",
+        "impact_score": 9,
+        "summary": null
+      },
+      {
+        "title": "Wall Street indexes post record closing highs as Nvidia jumps, megacap earnings ahead - Reuters",
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNUpCTjcxQ1lhNGQxc3FQdGo2eHpjd2pXM1JPNjREa21KTW45MkdhXzJJa0JjSFgyX0hqMzZsLTJOdm80dTlzLUxfVnNZTXpuNG5HOXVLZmpueEkzeVF0emp6XzlpcTZaUk9RNW1SeHNUeTJwLVp6N1JkM2ZheXRZMHIxeFZvR28zRDFCQV9fd1IwRlV2dVFaSHE1MFliX1pRbGg2TktNTXdYOGttb3hqeHRtOGpzbW8?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "published_at": null,
+        "sentiment_score": 15.0,
+        "sentiment_label": "muy positivo",
+        "impact_score": 8,
+        "summary": null
+      },
+      {
+        "title": "The Stock Market May Do Something Shocking in 2026, According to Wall Street Analysts - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc2FKMWlsY05TOGtXdjlhenl4ZW1ydUxDTWlhSVc2ZDBmOVZIV0hkZU1MTVpEal9QeXg0SktyU2RZZm9CRzRDOHo2SFFvd1pzREtKQlhaUi1sbFpXVEVXci1fOGhMNGw1MmJ6dVZOZ2g4bGcyVjl0b3FfbkJ3UHVxUUlEYVZqWUJo?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "published_at": null,
+        "sentiment_score": 15.0,
+        "sentiment_label": "muy positivo",
+        "impact_score": 8,
+        "summary": null
+      },
+      {
+        "title": "Wall Street is in a risk-on mood as it waits for Powell to deliver on the \u2018Fed put\u2019 - Fortune",
+        "source": "Fortune",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6UjVIeUtaSEhnU0RQSldVM3FPLXY5TndNUnRoTkh2YnVhcGpXdTdMdVhZZmF4VUVnU3pxVjZuQ09FejNXMnNCcVg3TVJHNVVfbUpYMzJfdmJaRnN3cTM5MDdBMzNvT2poalIzSlZn?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "published_at": null,
+        "sentiment_score": 15.0,
+        "sentiment_label": "muy positivo",
+        "impact_score": 8,
+        "summary": null
+      }
+    ],
+    "technical": {
+      "rsi": 68.63729679241166,
+      "macd": {
+        "value": 63.858711204565225,
+        "signal": 46.648143169753595,
+        "histogram": 17.21056803481163
+      },
+      "sma_50": 6622.0877734375,
+      "volume": 6280130000.0,
+      "vix": null,
+      "support_levels": [
+        5943.22998046875,
+        6212.68994140625,
+        6550.77978515625
+      ],
+      "resistance_levels": [
+        6764.580078125,
+        5968.60986328125
+      ],
+      "trend": "fuerte_alcista"
+    },
+    "social": [
+      {
+        "platform": "reddit",
+        "mentions_count": 50,
+        "sentiment_average": -0.074,
+        "trending_topics": [
+          "Fed",
+          "earnings",
+          "inflation"
+        ],
+        "influencer_posts": [
+          {
+            "author": "u/DeepFuckingValue",
+            "text": "SPY to the moon! \ud83d\ude80",
+            "upvotes": 5000,
+            "sentiment": 0.0
+          }
+        ],
+        "volume_change_pct": 25.5
+      },
+      {
+        "platform": "twitter",
+        "mentions_count": 300,
+        "sentiment_average": 0.113,
+        "trending_topics": [
+          "#SPY",
+          "#StockMarket",
+          "#Fed"
+        ],
+        "influencer_posts": [
+          {
+            "author": "@jimcramer",
+            "text": "$SPY breakout confirmed! #bullish",
+            "retweets": 1000,
+            "sentiment": 0.0
+          }
+        ],
+        "volume_change_pct": 15.0
+      },
+      {
+        "platform": "stocktwits",
+        "mentions_count": 500,
+        "sentiment_average": 0.45,
+        "trending_topics": [
+          "$SPY",
+          "bull",
+          "moon"
+        ],
+        "influencer_posts": [],
+        "volume_change_pct": 10.0
+      }
+    ],
+    "causality_explanation": "**An\u00e1lisis del movimiento del S&P 500**\n\n1. **Causas principales:**\n * La expectativa de que el presidente del FED, Powell, no reducir\u00eda los tipos de inter\u00e9s en diciembre (Fuente: MarketWatch, Sentimiento: muy positivo, Impacto: \u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50)\n * La tendencia alcista fuerte y el momentum positivo (RSI: 68.6, Tendencia: fuerte_alcista)\n * La noticia de que el Nasdaq alcanz\u00f3 un r\u00e9cord y el Dow y el S&P 500 disminuyeron ligeramente despu\u00e9s de que el FED cort\u00f3 los tipos de inter\u00e9s (Fuente: Yahoo Finance, Sentimiento: muy positivo, Impacto: \u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50)\n2. **Interacci\u00f3n de factores:** La expectativa de que el FED no reducir\u00e1 los tipos de inter\u00e9s y la tendencia alcista fuerte crearon un entorno de riesgo positivo, lo que llev\u00f3 a una ligera subida del S&P 500.\n3. **Factor contradictorio:** La disminuci\u00f3n ligeramente del Dow y el S&P 500 despu\u00e9s de que el FED cort\u00f3 los tipos de inter\u00e9s puede ser vista como una se\u00f1al de debilidad en la econom\u00eda.\n4. **Contexto:** El movimiento del S&P 500 es importante porque refleja el estado general de la econom\u00eda y el mercado de valores.\n5. **Objetividad:** El an\u00e1lisis se basa en datos y noticias objetivas, y se evita la interpretaci\u00f3n subjetiva.",
+    "confidence_score": 65.0,
+    "key_factors": [
+      " The S&P 500 stumbled from record highs during Powell\u2019s speec...",
+      " Tendencia alcista fuerte",
+      " Volumen de trading elevado"
+    ]
+  },
+  {
+    "date": "2025-10-28 02:33:04.738809",
+    "sp500_close": 6890.89013671875,
+    "sp500_change_pct": 1.4606113672491967,
+    "sp500_volume": 5695930000.0,
+    "market_direction": "alcista",
+    "news": [
+      {
+        "title": "Stock market today: S&P 500 crosses 6,800 mark, joining Dow, Nasdaq in fresh records as US-China trade deal hopes run high - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQN09MeFp2dW5DeWlYY2pJTzQxRHFxTmR2UXR5UHo4Rkh3Q0tCRXNDVzVqUHRlUUJHUVpZOTZEUGhuT1VrTFZHOTJIdG16d29rSUNIb2ZMamxBWkZEV3JGWVItbUVIZVYyNFdQR0szdHhoU3BVVXdoMk5KM3JDb29MWWlZckxMNEZISnFUVHNIVUhnRVlOcXRnTTNXejRac0NGUy1kZlFid3dXLXpCakhycTR3MFoydGYwTFY3bURvN1pfSEN0Z0Z2TXo0N0xpZGo0c2Z2Rm11N3pOV2djLXZ1UFZNS0VjRWFZUC0ydk5EZEVEQ24wZU5zTVhwcXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "published_at": null,
+        "sentiment_score": 17.0,
+        "sentiment_label": "muy positivo",
+        "impact_score": 9,
+        "summary": null
+      },
+      {
+        "title": "Wall Street trading desks turn bullish, say not to bet against Big Tech earnings, rate cut - CNBC",
+        "source": "CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOU2ZFaW50VkRsUHJpeEdjcGQ4a0lEa0lRdGQ5SUJIMG5TelZqQW5nNjhveFB5RkFtdUFoT0lHTmFZZ0FUSXhZb09FandGTVFMeHlodkMwVk5kZl9EcG5COFYyMzFtWTRXQmhwbjh2SDM3MGFYYnZwVmk5ZEpOVnBqT05pcDZYYWhlaldJWGdzYkZnT0NXenJudnNXZ3BKWkxzMUNlUFVWRkN3bWNQYjJmSHdGV2VuZndkOU90ZzVocThqMHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "published_at": null,
+        "sentiment_score": 15.0,
+        "sentiment_label": "muy positivo",
+        "impact_score": 8,
+        "summary": null
+      },
+      {
+        "title": "Wall Street indexes post record closing highs as Nvidia jumps, megacap earnings ahead - Reuters",
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNUpCTjcxQ1lhNGQxc3FQdGo2eHpjd2pXM1JPNjREa21KTW45MkdhXzJJa0JjSFgyX0hqMzZsLTJOdm80dTlzLUxfVnNZTXpuNG5HOXVLZmpueEkzeVF0emp6XzlpcTZaUk9RNW1SeHNUeTJwLVp6N1JkM2ZheXRZMHIxeFZvR28zRDFCQV9fd1IwRlV2dVFaSHE1MFliX1pRbGg2TktNTXdYOGttb3hqeHRtOGpzbW8?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "published_at": null,
+        "sentiment_score": 15.0,
+        "sentiment_label": "muy positivo",
+        "impact_score": 8,
+        "summary": null
+      },
+      {
+        "title": "$100bn stock swings expose \u2018fragility\u2019 beneath Wall Street rally - Financial Times",
+        "source": "Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWcWZ1emg1QWxIM1hqbVh0czg5QkpPX2I2UlRocl9vdXFaYy1kcWNfUHdnWXBVUU9aMFBfd2JKMzlZaHZaOVgwNjBqTzVLVlNmLUN2Um5ad1UydGlPQWhiTXJpbU5TQXRSbTFJMUxGRDc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "published_at": null,
+        "sentiment_score": 15.0,
+        "sentiment_label": "muy positivo",
+        "impact_score": 8,
+        "summary": null
+      },
+      {
+        "title": "Stocks close at record highs for second day as AI trade heats up ahead of Fed rate decision - CNBC",
+        "source": "CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81UjlvYjlFanF0eGQ0N0owY0prQnV6OFM0NmEwQUNYNzZBa29mQUoyN3NkY3pHN1JaQ1JPY2UxaEJTZ2NRcHFFTlkzM1dtU0I5Q0hPOWdnZXVibldxSndWTHdQZnBYTDFsUGhVZnlBejR0bjNjMU000gF8QVVfeXFMT2tJaXkySzU5SnhqNHJKQk04bEh0NkRtMVZocE5lRWRWcHIzc1B6R0tsWGhKUjV3UlNBbVc1eUF2TFFiUklHdXoyWWJUNVk1UVZUYkk4YWhZaklla19GWHE4NEZKMVJ6V1ltODQ5U0pIWE5EMHVOTWoyTlpzSA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "published_at": null,
+        "sentiment_score": 15.0,
+        "sentiment_label": "muy positivo",
+        "impact_score": 8,
+        "summary": null
+      }
+    ],
+    "technical": {
+      "rsi": 68.67720084598311,
+      "macd": {
+        "value": 57.60816576898833,
+        "signal": 42.347152921152635,
+        "histogram": 15.261012847835694
+      },
+      "sma_50": 6612.50337890625,
+      "volume": 5695930000.0,
+      "vix": null,
+      "support_levels": [
+        5943.22998046875,
+        6212.68994140625,
+        6550.77978515625
+      ],
+      "resistance_levels": [
+        6764.580078125,
+        5968.60986328125
+      ],
+      "trend": "fuerte_alcista"
+    },
+    "social": [
+      {
+        "platform": "reddit",
+        "mentions_count": 50,
+        "sentiment_average": -0.074,
+        "trending_topics": [
+          "Fed",
+          "earnings",
+          "inflation"
+        ],
+        "influencer_posts": [
+          {
+            "author": "u/DeepFuckingValue",
+            "text": "SPY to the moon! \ud83d\ude80",
+            "upvotes": 5000,
+            "sentiment": 0.0
+          }
+        ],
+        "volume_change_pct": 25.5
+      },
+      {
+        "platform": "twitter",
+        "mentions_count": 300,
+        "sentiment_average": 0.113,
+        "trending_topics": [
+          "#SPY",
+          "#StockMarket",
+          "#Fed"
+        ],
+        "influencer_posts": [
+          {
+            "author": "@jimcramer",
+            "text": "$SPY breakout confirmed! #bullish",
+            "retweets": 1000,
+            "sentiment": 0.0
+          }
+        ],
+        "volume_change_pct": 15.0
+      },
+      {
+        "platform": "stocktwits",
+        "mentions_count": 500,
+        "sentiment_average": 0.45,
+        "trending_topics": [
+          "$SPY",
+          "bull",
+          "moon"
+        ],
+        "influencer_posts": [],
+        "volume_change_pct": 10.0
+      }
+    ],
+    "causality_explanation": "**An\u00e1lisis del movimiento del S&P 500 el 28 de octubre de 2025**\n\n**Causas principales del movimiento:**\n\n1. **Esperanza de un acuerdo comercial entre EUA y China**: Las noticias sobre la posibilidad de un acuerdo comercial entre los dos pa\u00edses han generado una gran expectativa de crecimiento econ\u00f3mico y han impulsado a los inversores a comprar acciones de empresas con fuerte participaci\u00f3n en la econom\u00eda global.\n2. **Tendencia alcista fuerte**: La media 50 d\u00edas del S&P 500 ha sido superada, lo que indica una tendencia alcista fuerte y un momentum positivo.\n3. **Noticias positivas sobre tecnolog\u00eda y megacap**: Las noticias sobre el crecimiento de la tecnolog\u00eda y las megacap han generado una gran demanda de acciones de estas empresas.\n\n**Interacci\u00f3n de estos factores**: La combinaci\u00f3n de estos factores ha generado una gran confianza en los inversores y ha impulsado a los precios de las acciones a niveles r\u00e9cord.\n\n**Factor contradictorio**: Aunque la econom\u00eda global sigue creciendo, hay preocupaciones sobre la fragilidad del mercado y la posibilidad de una correcci\u00f3n.\n\n**Importancia del movimiento**: El movimiento del S&P 500 el 28 de octubre de 2025 es importante porque refleja la confianza de los inversores en la econom\u00eda global y la tendencia alcista fuerte del mercado.",
+    "confidence_score": 65.0,
+    "key_factors": [
+      " Stock market today: S&P 500 crosses 6,800 mark, joining Dow,...",
+      " Tendencia alcista fuerte",
+      " Volumen de trading elevado"
+    ]
+  },
+  {
+    "date": "2025-10-27 02:33:04.738809",
+    "sp500_close": 6875.16015625,
+    "sp500_change_pct": 2.0289594629111996,
+    "sp500_volume": 5290650000.0,
+    "market_direction": "alcista",
+    "news": [
+      {
+        "title": "Stock market today: S&P 500 crosses 6,800 mark, joining Dow, Nasdaq in fresh records as US-China trade deal hopes run high - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQN09MeFp2dW5DeWlYY2pJTzQxRHFxTmR2UXR5UHo4Rkh3Q0tCRXNDVzVqUHRlUUJHUVpZOTZEUGhuT1VrTFZHOTJIdG16d29rSUNIb2ZMamxBWkZEV3JGWVItbUVIZVYyNFdQR0szdHhoU3BVVXdoMk5KM3JDb29MWWlZckxMNEZISnFUVHNIVUhnRVlOcXRnTTNXejRac0NGUy1kZlFid3dXLXpCakhycTR3MFoydGYwTFY3bURvN1pfSEN0Z0Z2TXo0N0xpZGo0c2Z2Rm11N3pOV2djLXZ1UFZNS0VjRWFZUC0ydk5EZEVEQ24wZU5zTVhwcXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "published_at": null,
+        "sentiment_score": 17.0,
+        "sentiment_label": "muy positivo",
+        "impact_score": 9,
+        "summary": null
+      },
+      {
+        "title": "S&P 500 rallies 1% to notch first close ever above 6,800 on potential China trade truce: Live updates - CNBC",
+        "source": "CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1vdm5FRlBsbWNGODZZS2w5ZlFTQ0JqNEdTZDRqblMwM3R4bk8yNjc3ODZaZUJqY2xWd0FMVjRaNGloMnFlY0hHU1FkYVNQSnRwRGE2STlSRTA1U1Vnemh4M1Y3eWFOR2hORTZVZ05pUURrbnpwekIw0gF8QVVfeXFMTXNNckJUZmliUmVkcTkxV19nczBIblh1ekU2UFRCTkU3VVJYa2w0d2pnbHdpZURTMXoySFZwTHVQSFdYaWliZTcyNFhpVUM4dGVtMkMwbVhMWDlRd0VWdkNZd0VfWnFSQ0c0dUE3bHlmMFR5R0ZhbVllUXFXcg?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "published_at": null,
+        "sentiment_score": 17.0,
+        "sentiment_label": "muy positivo",
+        "impact_score": 9,
+        "summary": null
+      },
+      {
+        "title": "Wall Street trading desks turn bullish, say not to bet against Big Tech earnings, rate cut - CNBC",
+        "source": "CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOU2ZFaW50VkRsUHJpeEdjcGQ4a0lEa0lRdGQ5SUJIMG5TelZqQW5nNjhveFB5RkFtdUFoT0lHTmFZZ0FUSXhZb09FandGTVFMeHlodkMwVk5kZl9EcG5COFYyMzFtWTRXQmhwbjh2SDM3MGFYYnZwVmk5ZEpOVnBqT05pcDZYYWhlaldJWGdzYkZnT0NXenJudnNXZ3BKWkxzMUNlUFVWRkN3bWNQYjJmSHdGV2VuZndkOU90ZzVocThqMHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "published_at": null,
+        "sentiment_score": 15.0,
+        "sentiment_label": "muy positivo",
+        "impact_score": 8,
+        "summary": null
+      },
+      {
+        "title": "Wall St Week Ahead Megacap-led earnings deluge, Fed meeting headline busy US markets week - Reuters",
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUUZ1QXJRNDRHcklseWhHQzd6VGtUakhDUFVoblFWanhOWTBIR3A1TTAzcXdQVlNOUkJrU1g2ZVozRGZBdHVMUmFJVlV3M0t1MGp1ZDRaMmdlZlRXUDllLVlYd05iQ2Vlbm54czhxbzcwNWxteDlOU2ZWRmtnUkFoa1l5YlRDSEVWX0x5RkFibVdyU0E2MmpiZVZFZllIS2hSVWZUZldULXl6S0V4Ym1VSTdHWE5VZGdWb2gySw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "published_at": null,
+        "sentiment_score": 15.0,
+        "sentiment_label": "muy positivo",
+        "impact_score": 8,
+        "summary": null
+      },
+      {
+        "title": "Dow futures jump 300 points as U.S.-China trade war heads for ceasefire while Wall Street eyes another Fed rate cut and earnings from AI giants - Fortune",
+        "source": "Fortune",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOXJZNWtyUDBQUHU5ZEpDMEQ4dkJWbW9NeTFVZ0F6V0l2WXE0S0lQR2VvdWFtd1RDdEwtdHJzdXRNQVFMa0x2WUVIQUROUDVoSE5aZmRWYWZBNGxIeUNNT3J4MzNVTkY3TDhLeEVUcGlyamVJSC1SWElRVEJVNDZQamVLNnA4cXE5bWNvQmdibEFSZVNTTFlLZWpiS1NCcXZhdjlHTFVodw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "published_at": null,
+        "sentiment_score": 15.0,
+        "sentiment_label": "muy positivo",
+        "impact_score": 8,
+        "summary": null
+      }
+    ],
+    "technical": {
+      "rsi": 67.76824946404453,
+      "macd": {
+        "value": 48.762869565915025,
+        "signal": 38.535594336075796,
+        "histogram": 10.227275229839229
+      },
+      "sma_50": 6603.66857421875,
+      "volume": 5290650000.0,
+      "vix": null,
+      "support_levels": [
+        5943.22998046875,
+        6212.68994140625,
+        6550.77978515625
+      ],
+      "resistance_levels": [
+        6764.580078125,
+        5968.60986328125
+      ],
+      "trend": "fuerte_alcista"
+    },
+    "social": [
+      {
+        "platform": "reddit",
+        "mentions_count": 50,
+        "sentiment_average": -0.074,
+        "trending_topics": [
+          "Fed",
+          "earnings",
+          "inflation"
+        ],
+        "influencer_posts": [
+          {
+            "author": "u/DeepFuckingValue",
+            "text": "SPY to the moon! \ud83d\ude80",
+            "upvotes": 5000,
+            "sentiment": 0.0
+          }
+        ],
+        "volume_change_pct": 25.5
+      },
+      {
+        "platform": "twitter",
+        "mentions_count": 300,
+        "sentiment_average": 0.113,
+        "trending_topics": [
+          "#SPY",
+          "#StockMarket",
+          "#Fed"
+        ],
+        "influencer_posts": [
+          {
+            "author": "@jimcramer",
+            "text": "$SPY breakout confirmed! #bullish",
+            "retweets": 1000,
+            "sentiment": 0.0
+          }
+        ],
+        "volume_change_pct": 15.0
+      },
+      {
+        "platform": "stocktwits",
+        "mentions_count": 500,
+        "sentiment_average": 0.45,
+        "trending_topics": [
+          "$SPY",
+          "bull",
+          "moon"
+        ],
+        "influencer_posts": [],
+        "volume_change_pct": 10.0
+      }
+    ],
+    "causality_explanation": "**An\u00e1lisis del movimiento del S&P 500**\n\n1. **Causas principales:**\n - La esperanza de un acuerdo comercial entre Estados Unidos y China, que ha generado un sentimiento muy positivo en el mercado.\n - La expectativa de una reducci\u00f3n de tipos de inter\u00e9s por parte de la Reserva Federal, que ha sido confirmada por algunos analistas.\n - La fuerte tendencia alcista del mercado, con un RSI de 67,8 y una media 50 d\u00edas de $6603,67, lo que indica un momento \u00f3ptimo para la compra.\n2. **Interacci\u00f3n de factores:** La combinaci\u00f3n de estos factores ha generado una gran confianza en los inversores, lo que ha llevado a una fuerte subida del S&P 500.\n3. **Factor contradictorio:** La volatilidad del mercado es alta, lo que podr\u00eda llevar a una correcci\u00f3n en el futuro.\n4. **Importancia del movimiento:** El S&P 500 ha superado el nivel de 6.800, lo que es un hito importante para el mercado.\n5. **Objetividad:** El an\u00e1lisis se basa en datos y noticias recientes, y se ha intentado proporcionar una visi\u00f3n equilibrada de la situaci\u00f3n.",
+    "confidence_score": 65.0,
+    "key_factors": [
+      " Stock market today: S&P 500 crosses 6,800 mark, joining Dow,...",
+      " Tendencia alcista fuerte",
+      " Volumen de trading elevado"
+    ]
+  },
+  {
+    "date": "2025-10-26 02:33:04.738809",
+    "sp500_close": 6791.68994140625,
+    "sp500_change_pct": 1.3775866556378105,
+    "sp500_volume": 5058220000.0,
+    "market_direction": "alcista",
+    "news": [
+      {
+        "title": "Wall St Week Ahead Megacap-led earnings deluge, Fed meeting headline busy US markets week - Reuters",
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUUZ1QXJRNDRHcklseWhHQzd6VGtUakhDUFVoblFWanhOWTBIR3A1TTAzcXdQVlNOUkJrU1g2ZVozRGZBdHVMUmFJVlV3M0t1MGp1ZDRaMmdlZlRXUDllLVlYd05iQ2Vlbm54czhxbzcwNWxteDlOU2ZWRmtnUkFoa1l5YlRDSEVWX0x5RkFibVdyU0E2MmpiZVZFZllIS2hSVWZUZldULXl6S0V4Ym1VSTdHWE5VZGdWb2gySw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "published_at": null,
+        "sentiment_score": 17.0,
+        "sentiment_label": "muy positivo",
+        "impact_score": 9,
+        "summary": null
+      },
+      {
+        "title": "What to Expect in Markets This Week: Fed Interest-Rate Decision; Earnings From Apple, Microsoft, Meta, Amazon, Alphabet - Investopedia",
+        "source": "Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPOGFKWkdFeVFhbmlZb0hnbEk1TW1BTWh2NjBvOUpUR0N0ODdWZUZ2eXRpYnVqU2V6Y2w2c2ZiX1lhalRzZzA5Sm92OTkxOVdIYWc3aXd0SUhfLWszUHlTX0ZKWDh5c3RzU3llYW5YNmRTTTRyNGdVWVYyUllyZDdEM0ZIcDluX08zUDFvSlhfNjQxQ2RTMlIzajh6dVZMNVZNY1U1UlBhY3ZJSzFCU3RxUGJfSUZnc09Qa2hVYTlZODJ6SVVSYWFtNE1ENTBFUUhpSm5wNTBkQk9FSG9oX0tkMWE2RW9IZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "published_at": null,
+        "sentiment_score": 17.0,
+        "sentiment_label": "muy positivo",
+        "impact_score": 9,
+        "summary": null
+      },
+      {
+        "title": "Dow futures jump 300 points as U.S.-China trade war heads for ceasefire while Wall Street eyes another Fed rate cut and earnings from AI giants - Fortune",
+        "source": "Fortune",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOXJZNWtyUDBQUHU5ZEpDMEQ4dkJWbW9NeTFVZ0F6V0l2WXE0S0lQR2VvdWFtd1RDdEwtdHJzdXRNQVFMa0x2WUVIQUROUDVoSE5aZmRWYWZBNGxIeUNNT3J4MzNVTkY3TDhLeEVUcGlyamVJSC1SWElRVEJVNDZQamVLNnA4cXE5bWNvQmdibEFSZVNTTFlLZWpiS1NCcXZhdjlHTFVodw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "published_at": null,
+        "sentiment_score": 15.0,
+        "sentiment_label": "muy positivo",
+        "impact_score": 8,
+        "summary": null
+      },
+      {
+        "title": "Trending stocks this week: Wall Street extends gains on softer inflation, trade optimism - Seeking Alpha",
+        "source": "Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUVVsRmtfRVhYS2RmY3llZlhpVUJLUmpFUW9aajhpMTZlWEh2eE9FbV9BWVlvZkMyTTN2bjVRakhncllwMXhOdFl4dVJXMUVHckdxUjAzY0hiWjVSaGV3d3h6aWJWaXBPYjc4TTdBZGNLYldSQ3kxSi16bkg4NHpWREhsUElIc2RWb29LUUtmX1VmSzF3bGM0OWhHQTVQd1ptX254UmdWcVNIVHFPcXliTnhCUXprVnIwMUNsUzZub00yQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "published_at": null,
+        "sentiment_score": 15.0,
+        "sentiment_label": "muy positivo",
+        "impact_score": 8,
+        "summary": null
+      },
+      {
+        "title": "Stock Market News, Oct. 24, 2025: Dow Rises Above 47000 After Inflation Report - The Wall Street Journal",
+        "source": "The Wall Street Journal",
+        "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxOODJzbzBhVmhSQzZEb0NjR29ZZnJtOXVPSkdVRW04SUNOMkt1WFlwMUxfLWswS01pa1NSX29GczlwelZUYjZMenUzOXV6dWkza2xxZUxTT05ubUNmU1pTbUFLYXQtTThTRUV0alBEd2ZkVzloUlR2VnVGWXRJcEo0RkpnTzMxMEJxZFQydmRnem03alhmZV81ZmFxU3REWUI3V1ZETUFBN1ZlUDNuY1Q5UTlUNF94X3pKdzFhWndRVzdMOWtRcnJDeHR6YzhpajZFdm9qY2tZWU1DTllVOUIweUZyODVrUEkxWDZQS0hpS2cyeHFxOUJQRzlzdWRCenpzaFl5dzB2ZlFidmVvWHdfUU1DTU1pUWkxWnhnTGk1ZlFxeENDVHZra0JoZk1ndzlpSG1ZZDBFVUhZNnFHSGZPaklicUdjMjBSSy1LTUEzYXpRRFgzRHFPa242SEZ4SDhueFg5UEdjWWFpdmFQSlFlN2VZYmxpNWIxT3YtTmpCbFNtRTRfVE95N1Z2TFI0NUZm?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "published_at": null,
+        "sentiment_score": 15.0,
+        "sentiment_label": "muy positivo",
+        "impact_score": 8,
+        "summary": null
+      }
+    ],
+    "technical": {
+      "rsi": 62.388161538161036,
+      "macd": {
+        "value": 38.357427823051694,
+        "signal": 35.97145488814,
+        "histogram": 2.385972934911692
+      },
+      "sma_50": 6595.1613671875,
+      "volume": 5058220000.0,
+      "vix": null,
+      "support_levels": [
+        5943.22998046875,
+        6212.68994140625,
+        6550.77978515625
+      ],
+      "resistance_levels": [
+        6764.580078125,
+        5968.60986328125
+      ],
+      "trend": "fuerte_alcista"
+    },
+    "social": [
+      {
+        "platform": "reddit",
+        "mentions_count": 50,
+        "sentiment_average": -0.074,
+        "trending_topics": [
+          "Fed",
+          "earnings",
+          "inflation"
+        ],
+        "influencer_posts": [
+          {
+            "author": "u/DeepFuckingValue",
+            "text": "SPY to the moon! \ud83d\ude80",
+            "upvotes": 5000,
+            "sentiment": 0.0
+          }
+        ],
+        "volume_change_pct": 25.5
+      },
+      {
+        "platform": "twitter",
+        "mentions_count": 300,
+        "sentiment_average": 0.113,
+        "trending_topics": [
+          "#SPY",
+          "#StockMarket",
+          "#Fed"
+        ],
+        "influencer_posts": [
+          {
+            "author": "@jimcramer",
+            "text": "$SPY breakout confirmed! #bullish",
+            "retweets": 1000,
+            "sentiment": 0.0
+          }
+        ],
+        "volume_change_pct": 15.0
+      },
+      {
+        "platform": "stocktwits",
+        "mentions_count": 500,
+        "sentiment_average": 0.45,
+        "trending_topics": [
+          "$SPY",
+          "bull",
+          "moon"
+        ],
+        "influencer_posts": [],
+        "volume_change_pct": 10.0
+      }
+    ],
+    "causality_explanation": "**An\u00e1lisis del movimiento del S&P 500**\n\n1. **Causas principales:**\n - **Noticias de inflaci\u00f3n suave**: El informe de inflaci\u00f3n reciente mostr\u00f3 una disminuci\u00f3n en la tasa de inflaci\u00f3n, lo que sugiere que la Reserva Federal (Fed) podr\u00eda reducir las tasas de inter\u00e9s, lo que anima a los inversores a comprar acciones.\n - **Expectativas de cese de la guerra comercial**: La noticia de un posible cese de la guerra comercial entre EE. UU. y China ha generado optimismo en el mercado, lo que ha llevado a una mayor demanda de acciones.\n - **Earnings de empresas l\u00edderes**: La pr\u00f3xima semana se espera que empresas l\u00edderes como Apple, Microsoft y Amazon informen sus resultados financieros, lo que podr\u00eda impulsar a\u00fan m\u00e1s el mercado.\n2. **Interacci\u00f3n de factores:** La combinaci\u00f3n de estas noticias ha generado una tendencia alcista fuerte en el mercado, con un aumento en el precio del S&P 500 y un aumento en el volumen de negocios.\n3. **Factor contradictorio:** Sin embargo, es importante tener en cuenta que el RSI se encuentra en un nivel neutral, lo que sugiere que el mercado podr\u00eda estar sobrecomprado y sujeto a una correcci\u00f3n.\n4. **Importancia del movimiento:** El movimiento del S&P 500 es importante porque refleja la confianza de los inversores en la econom\u00eda y la industria, y puede influir en la toma de decisiones de inversi\u00f3n a futuro.",
+    "confidence_score": 65.0,
+    "key_factors": [
+      " Wall St Week Ahead Megacap-led earnings deluge, Fed meeting ...",
+      " Tendencia alcista fuerte",
+      " Volumen de trading elevado"
+    ]
+  },
+  {
+    "date": "2025-10-25 02:33:04.738809",
+    "sp500_close": 6791.68994140625,
+    "sp500_change_pct": 1.3775866556378105,
+    "sp500_volume": 5058220000.0,
+    "market_direction": "alcista",
+    "news": [
+      {
+        "title": "Wall Street notches record closing highs on cool inflation, solid earnings - Reuters",
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObFpqQnFLZ1dILXZKRGdhaTlKSTRTZ29JcktmeXdIYUtaOHNQR2FXZjZLdlgwakc1T3lyNlNfMlh3S0VRT0NfeURkNzQ3bWF3TGU2UGdKWjliWVB4dUlxY2N6VGNPZF9tNHJfTHRKOVd5NDBvczFRZGhsb0w1dnBSUHFUWUd6S3NTRFd0dU1WaWFGUkI4QWdSbDhLY1dTc2M?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "published_at": null,
+        "sentiment_score": 17.0,
+        "sentiment_label": "muy positivo",
+        "impact_score": 9,
+        "summary": null
+      },
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq surge to records as tame inflation cements Fed rate cut bets - Yahoo Finance",
+        "source": "Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVVYtVkhlMTFfMUQ3MXFXWm1mNjhxX2VWX2ExUzdtdHIwTW9CcHE2aThNZW0xamdneEZZby1hVFNPQTN5MWZWcGNwcUdIeF8yamVEazU5cmxweW1xVDdBNnZXcW5jR1lFbTR5NTJPZzZHS0w0a2Vsa0duQjg1M0ViUW5GYVNNZjBfTDdkYzRyNjJwajRGYzhNajcyTWoyZl9GVEJWblhqbUJBNGZTUkRjVUZXYkFYczJHQ0o5amZSYm5uRlN3U1dabDkxUFV2dnR3ZVBkSDBSeXpkNnRSejBpWlNB?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "published_at": null,
+        "sentiment_score": 17.0,
+        "sentiment_label": "muy positivo",
+        "impact_score": 9,
+        "summary": null
+      },
+      {
+        "title": "Stock Market Today: Dow, S&P 500, Nasdaq Close At New Highs On Cool CPI Data - Investor's Business Daily",
+        "source": "Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRmQtSV9pOGZ1N1Q0YXdGSWpDazVrT0FqQkxFS05FVWNQT3kyd3B0VWVGbzJtR3FQbFRBZ0oxVGlIdG1XVl9DZnVwU20zb1ptZ2U4ak9sUmdxdXM3Zm1RS3JyZTZHVkhXLTVFTXFDU0I2UzlIb2dTbUpUeVE1RnVObm1OalgweWIzLXBwTWxmYm5LdXY1SnFSNXJyVHM5QTBtckh4NnhXdmNDTThfR2JpaGtpSVN1X2hQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "published_at": null,
+        "sentiment_score": 17.0,
+        "sentiment_label": "muy positivo",
+        "impact_score": 9,
+        "summary": null
+      },
+      {
+        "title": "Stocks Hit Highs as CPI Gives Fed All-Clear to Cut: Markets Wrap - Bloomberg.com",
+        "source": "Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTTlCckc0b0Q5QjV4MHFtakFhNm1jOGo1X2h1WjJzSkx1QkEwYy1wdUZ4R1gzTEZHYlZuRWxWdUx0d0RpR2RBczRqXzlOTGQ1cG9vSXVyd3hQSks5aWlnZEJ6d0l4dlRFbjNoYzlIMDE1U19kQXlmVVI5QXpVRHBXa0pIMUNrZ2I2aXU2bkhYc0JCcUl3?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "published_at": null,
+        "sentiment_score": 17.0,
+        "sentiment_label": "muy positivo",
+        "impact_score": 9,
+        "summary": null
+      },
+      {
+        "title": "Trending stocks this week: Wall Street extends gains on softer inflation, trade optimism - Seeking Alpha",
+        "source": "Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUVVsRmtfRVhYS2RmY3llZlhpVUJLUmpFUW9aajhpMTZlWEh2eE9FbV9BWVlvZkMyTTN2bjVRakhncllwMXhOdFl4dVJXMUVHckdxUjAzY0hiWjVSaGV3d3h6aWJWaXBPYjc4TTdBZGNLYldSQ3kxSi16bkg4NHpWREhsUElIc2RWb29LUUtmX1VmSzF3bGM0OWhHQTVQd1ptX254UmdWcVNIVHFPcXliTnhCUXprVnIwMUNsUzZub00yQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "published_at": null,
+        "sentiment_score": 15.0,
+        "sentiment_label": "muy positivo",
+        "impact_score": 8,
+        "summary": null
+      }
+    ],
+    "technical": {
+      "rsi": 62.38945161073479,
+      "macd": {
+        "value": 38.369000060606595,
+        "signal": 35.988472783003104,
+        "histogram": 2.380527277603491
+      },
+      "sma_50": 6595.1613671875,
+      "volume": 5058220000.0,
+      "vix": null,
+      "support_levels": [
+        5943.22998046875,
+        6212.68994140625,
+        6550.77978515625
+      ],
+      "resistance_levels": [
+        6764.580078125,
+        5968.60986328125
+      ],
+      "trend": "fuerte_alcista"
+    },
+    "social": [
+      {
+        "platform": "reddit",
+        "mentions_count": 50,
+        "sentiment_average": -0.074,
+        "trending_topics": [
+          "Fed",
+          "earnings",
+          "inflation"
+        ],
+        "influencer_posts": [
+          {
+            "author": "u/DeepFuckingValue",
+            "text": "SPY to the moon! \ud83d\ude80",
+            "upvotes": 5000,
+            "sentiment": 0.0
+          }
+        ],
+        "volume_change_pct": 25.5
+      },
+      {
+        "platform": "twitter",
+        "mentions_count": 300,
+        "sentiment_average": 0.113,
+        "trending_topics": [
+          "#SPY",
+          "#StockMarket",
+          "#Fed"
+        ],
+        "influencer_posts": [
+          {
+            "author": "@jimcramer",
+            "text": "$SPY breakout confirmed! #bullish",
+            "retweets": 1000,
+            "sentiment": 0.0
+          }
+        ],
+        "volume_change_pct": 15.0
+      },
+      {
+        "platform": "stocktwits",
+        "mentions_count": 500,
+        "sentiment_average": 0.45,
+        "trending_topics": [
+          "$SPY",
+          "bull",
+          "moon"
+        ],
+        "influencer_posts": [],
+        "volume_change_pct": 10.0
+      }
+    ],
+    "causality_explanation": "**An\u00e1lisis del movimiento del S&P 500**\n\n**1. Identificaci\u00f3n de las causas principales:**\n\n* La reducci\u00f3n de la inflaci\u00f3n, seg\u00fan los datos del CPI, que sugiere una mayor probabilidad de rebaja de las tasas de inter\u00e9s por parte de la Reserva Federal (Fed).\n* Las ganancias s\u00f3lidas de las empresas, que reflejan una econom\u00eda en crecimiento y una confianza en la recuperaci\u00f3n.\n* La tendencia alcista fuerte, con un RSI de 62.4 y una media 50 d\u00edas de $6595.16, que indica un momentum positivo.\n\n**2. Interacci\u00f3n de los factores:**\n\nLa reducci\u00f3n de la inflaci\u00f3n y las ganancias s\u00f3lidas de las empresas han aumentado la confianza en la econom\u00eda, lo que a su vez ha impulsado la tendencia alcista del mercado.\n\n**3. Factor contradictorio:**\n\nNinguno identificado en el an\u00e1lisis.\n\n**4. Contexto y importancia del movimiento:**\n\nEl movimiento del S&P 500 a un +1.38% es significativo, ya que refleja una confianza creciente en la econom\u00eda y en la recuperaci\u00f3n del mercado. Este movimiento puede ser un indicador de que el mercado est\u00e1 listo para seguir subiendo en el futuro.",
+    "confidence_score": 65.0,
+    "key_factors": [
+      " Wall Street notches record closing highs on cool inflation, ...",
+      " Tendencia alcista fuerte",
+      " Volumen de trading elevado"
+    ]
+  }
+]

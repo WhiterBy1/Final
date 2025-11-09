@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>S&P 500 Intelligence Platform</title>
+
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+    <script
+        src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns@3.0.0/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <header class="header">
+        <div class="container">
+            <h1><i class="fas fa-chart-line"></i> S&P 500 Intelligence Platform</h1>
+            <p class="subtitle">Aprende sobre el mercado de valores de forma interactiva</p>
+        </div>
+    </header>
+
+    <main class="main-content">
+
+        <div class="container">
+
+            <!-- NUEVA SECCIÓN: Predicciones HOY -->
+            <div class="predictions-today-section">
+                <div class="section-header">
+                    <h2><i class="fas fa-crystal-ball"></i> Predicciones de Hoy</h2>
+                    <button id="refreshPredictionsBtn" class="btn-primary">
+                        <i class="fas fa-sync-alt"></i> Actualizar
+                    </button>
+                </div>
+
+                <div class="predictions-grid">
+                    <!-- Card: Predicción Principal -->
+                    <div class="prediction-card main-prediction">
+                        <h3>Predicción por noticias e información externa</h3>
+                        <div id="mainPrediction" class="prediction-content">
+                            <div class="loading-small">
+                                <i class="fas fa-spinner fa-spin"></i>
+                                <p>Cargando análisis...</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Card: Sentimiento Últimas Semanas -->
+                    <!-- <div class="prediction-card">
+                        <h3><i class="fas fa-chart-area"></i> Tendencia de Sentimiento</h3>
+                        <div id="sentimentTrend" class="sentiment-content">
+                            <div class="loading-small">
+                                <i class="fas fa-spinner fa-spin"></i>
+                            </div>
+                        </div>
+                    </div> -->
+
+                    <!-- Card: Patrones Similares -->
+                    <div class="prediction-card patterns-card">
+                        <h3><i class="fas fa-history"></i> Patrones Históricos Similares</h3>
+                        <div id="similarPatterns" class="patterns-content">
+                            <div class="loading-small">
+                                <i class="fas fa-spinner fa-spin"></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Grid Layout Original -->
+            <div class="grid-layout">
+                <div class="chart-panel">
+                    <div class="panel-header">
+                        <h2>📈 Histórico S&P 500</h2>
+                        <div class="date-range">
+                            <input type="date" id="startDate" value="2024-01-01">
+                            <span>hasta</span>
+                            <input type="date" id="endDate" value="2024-12-31">
+
+                            <!-- NUEVO: Selector de predicción -->
+                            <select id="forecastHorizon" class="forecast-selector">
+                                <option value="7">7 días</option>
+                                <option value="15" selected>15 días</option>
+                                <option value="30">30 días</option>
+                                <option value="60">60 días</option>
+                            </select>
+
+                            <button id="loadDataBtn" class="btn-primary">Cargar</button>
+                        </div>
+                    </div>
+
+                    <div class="chart-container">
+                        <canvas id="sp500Chart"></canvas>
+                    </div>
+
+                    <div class="chart-info">
+                        <p><i class="fas fa-info-circle"></i> Haz click en cualquier punto de la gráfica para ver el
+                            análisis detallado de ese día</p>
+                    </div>
+                </div>
+                <!-- CHATBOT REDISEÑADO -->
+                <div class="chatbot-container">
+                    <div class="chatbot-header">
+                        <div class="header-left">
+                            <div class="bot-avatar">
+                                <i class="fas fa-robot"></i>
+                            </div>
+                            <div class="header-info">
+                                <h2>Asistente Financiero</h2>
+                                <p class="status">
+                                    <span class="status-dot"></span>
+                                    Listo para ayudarte
+                                </p>
+                            </div>
+                        </div>
+                        <div class="header-actions">
+                            <button id="clearChat" class="icon-btn" title="Nueva conversación">
+                                <i class="fas fa-plus"></i>
+                            </button>
+                            <button id="toggleInfo" class="icon-btn" title="Información">
+                                <i class="fas fa-info-circle"></i>
+                            </button>
+                        </div>
+                    </div>
+
+                    <div class="chatbot-body">
+                        <div id="messagesContainer" class="messages-container">
+                            <div class="message bot-message welcome-message">
+                                <div class="message-avatar">
+                                    <i class="fas fa-robot"></i>
+                                </div>
+                                <div class="message-content">
+                                    <div class="message-text">
+                                        <p>👋 ¡Hola! Soy tu asistente financiero especializado en el S&P 500.</p>
+                                        <p>Puedo ayudarte a:</p>
+                                        <ul>
+                                            <li><i class="fas fa-newspaper"></i> Buscar noticias de mercado por fecha
+                                            </li>
+                                            <li><i class="fas fa-chart-line"></i> Generar gráficas de períodos
+                                                específicos</li>
+                                            <li><i class="fas fa-graduation-cap"></i> Explicar movimientos del mercado
+                                            </li>
+                                            <li><i class="fas fa-globe"></i> Analizar efectos internacionales</li>
+                                        </ul>
+                                    </div>
+                                    <div class="quick-actions">
+                                        <button class="quick-action-btn" data-action="¿Qué pasó el 2024-11-07?">
+                                            <i class="fas fa-calendar-day"></i> Analizar fecha específica
+                                        </button>
+                                        <button class="quick-action-btn" data-action="Muestra noticias del 2024-01-15">
+                                            <i class="fas fa-newspaper"></i> Buscar noticias
+                                        </button>
+                                        <button class="quick-action-btn" data-action="¿Cómo funciona el S&P 500?">
+                                            <i class="fas fa-question-circle"></i> Aprender básicos
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Activity Log -->
+                        <div id="activityLog" class="activity-log" style="display: none;">
+                            <div class="activity-header">
+                                <i class="fas fa-cog fa-spin"></i>
+                                <span>Procesando...</span>
+                            </div>
+                            <div id="activitySteps" class="activity-steps"></div>
+                        </div>
+                    </div>
+
+                    <div class="chatbot-footer">
+                        <form id="chatForm" class="chat-form">
+                            <div class="input-wrapper">
+                                <button type="button" id="attachBtn" class="icon-btn" title="Adjuntar">
+                                    <i class="fas fa-paperclip"></i>
+                                </button>
+                                <input type="text" id="chatInput"
+                                    placeholder="Pregunta sobre fechas, tendencias, noticias del S&P 500..."
+                                    autocomplete="off" maxlength="500" />
+                                <button type="submit" id="sendBtn" class="send-btn">
+                                    <i class="fas fa-paper-plane"></i>
+                                </button>
+                            </div>
+                            <div class="input-hints">
+                                <span class="hint-item"><i class="fas fa-lightbulb"></i> Ejemplo: "¿Qué pasó el
+                                    2024-03-15?"</span>
+                                <span class="hint-item"><i class="fas fa-info-circle"></i> Usa formato YYYY-MM-DD para
+                                    fechas</span>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    </main>
+
+    <!-- Modal de Análisis   (mismo que antes) -->
+    <div id="analysisModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+
+            <div id="modalLoading" class="loading">
+                <i class="fas fa-spinner fa-spin fa-3x"></i>
+                <p>Analizando datos del mercado...</p>
+            </div>
+
+            <div id="modalBody" style="display: none;">
+                <!-- Encabezado -->
+                <div class="modal-header-content">
+                    <h2 id="modalDate">Análisis del 1 de Agosto, 2024</h2>
+                    <div class="market-direction" id="marketDirection">
+                        <i class="fas fa-arrow-up"></i>
+                        <span>Alcista</span>
+                    </div>
+                </div>
+
+                <!-- Resumen Principal -->
+                <div class="summary-cards">
+                    <div class="summary-card">
+                        <span class="label">Precio de Cierre</span>
+                        <span class="value" id="closePrice">$5,446.68</span>
+                        <span class="change positive" id="changePercent">+0.19%</span>
+                    </div>
+
+                    <div class="summary-card">
+                        <span class="label">Volumen</span>
+                        <span class="value" id="volume">4.7B</span>
+                    </div>
+
+                    <div class="summary-card">
+                        <span class="label">Confianza del Análisis</span>
+                        <span class="value" id="confidence">60%</span>
+                        <div class="confidence-bar">
+                            <div class="confidence-fill" id="confidenceFill"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Explicación para principiantes -->
+                <div class="explanation-section">
+                    <h3><i class="fas fa-graduation-cap"></i> ¿Qué pasó este día?</h3>
+                    <div class="explanation-text" id="explanationText">
+                        <!-- Se llenará con la explicación del backend -->
+                    </div>
+                </div>
+
+                <!-- Factores Clave -->
+                <div class="factors-section">
+                    <h3><i class="fas fa-key"></i> Factores Clave del Día</h3>
+                    <div id="keyFactors" class="factors-list">
+                        <!-- Se llenarán dinámicamente -->
+                    </div>
+
+                    <button id="searchNewsBtn" class="btn-secondary">
+                        <i class="fas fa-newspaper"></i> Ver Noticias Relacionadas
+                    </button>
+                </div>
+
+                <!-- Indicadores Técnicos -->
+                <div class="technical-section">
+                    <h3><i class="fas fa-chart-bar"></i> Indicadores Técnicos</h3>
+                    <p class="section-subtitle">Estos son los números que los profesionales miran:</p>
+
+                    <div class="indicators-grid" id="technicalIndicators">
+                        <!-- Se llenarán dinámicamente -->
+                    </div>
+                </div>
+
+                <!-- Sentimiento Social -->
+                <div class="social-section">
+                    <h3><i class="fas fa-comments"></i> Sentimiento en Redes Sociales</h3>
+                    <div id="socialSentiment" class="social-grid">
+                        <!-- Se llenará dinámicamente -->
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal Flotante para Gráficas -->
+    <div id="chartModal" class="chart-modal">
+        <div class="chart-modal-content">
+            <div class="chart-modal-header">
+                <h3>
+                    <i class="fas fa-chart-line"></i>
+                    <span id="chartModalTitle">Análisis del S&P 500</span>
+                </h3>
+                <button class="chart-modal-close" id="chartModalClose">
+                    <i class="fas fa-times"></i>
+                </button>
+            </div>
+
+            <div class="chart-modal-body">
+                <div class="chart-modal-canvas-wrapper" id="chartModalCanvas">
+                    <!-- El canvas se insertará aquí -->
+                </div>
+            </div>
+
+            <div class="chart-modal-footer">
+                <div class="chart-modal-info">
+                    <i class="fas fa-info-circle"></i>
+                    <span>Usa los controles para hacer zoom y explorar los datos</span>
+                </div>
+                <div class="chart-modal-actions">
+                    <button class="chart-modal-btn" id="downloadChartBtn">
+                        <i class="fas fa-download"></i>
+                        Descargar PNG
+                    </button>
+                    <button class="chart-modal-btn primary" id="closeChartModalBtn">
+                        <i class="fas fa-check"></i>
+                        Cerrar
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- JavaScript -->
+    
+    <script
+        src="https://cdn.jsdelivr.net/npm/chartjs-plugin-annotation@3.0.1/dist/chartjs-plugin-annotation.min.js"></script>
+    <script src="chatbot.js"></script>
+    <script src="app.js"></script>
+    <script src="../mock_patterns_loader.js"></script>
+</body>
+
+</html>

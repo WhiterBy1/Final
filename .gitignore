@@ -1,0 +1,8 @@
+__pycache__/
+.venv/
+.vscode/
+Hackaton.rar
+test
+data2/
+news_service.py
+news_service.py
